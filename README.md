@@ -1,11 +1,17 @@
-# Awesome Windows [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# <img src="https://raw.githubusercontent.com/rahulkapoor90/awesome-windows/master/media/awesome-windows-icon.png" width="400">
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome)
 
 > A curated list of awesome applications, softwares, tools and shiny things for Windows
+> This Awesome Repository is inspired from ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")
+
+> *Special thanks to [egeerardyn](https://github.com/egeerardyn).*
+> *Items marked with ![Open-Source Software][OSS Icon] are open-source software.*
 
 ## Table of Contents
 
 - [Applications](#applications)
   - [Audio](#audio)
+  - [Chat Clients](#chat-clients)
   - [Compression](#compression)
   - [Data Recovery](#data-recovery)
   - [Documents](#documents)
@@ -24,9 +30,23 @@
 
 ### Audio
 
-- [AIMP](http://www.aimp.ru/) - Audio player.
+- [AIMP](http://www.aimp.ru/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
 - [Audacity](http://audacityteam.org/) - Audio Editor and Recorder.
+- [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer.
+[![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git)
+- [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and $60 for individual, non-profit, or small business use.
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files.
+- [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx)
+
+### Chat Clients
+
+- [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. [![Open-Source Software][OSS Icon]](http://dedg3.com/wao/)
+- [LimeChat](http://limechat.net) - Instant messaging application.
+- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
+- [Profanity](http://www.profanity.im) - A terminal XMPP client. [![Open-Source Software][OSS Icon]](https://github.com/boothj5/profanity)
+- [Textual 5](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
+- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
+- [WeeChat](https://weechat.org) - A terminal IRC client. [![Open-Source Software][OSS Icon]](https://github.com/weechat/weechat)
 
 ### Compression
 
@@ -37,7 +57,9 @@
 
 ### Data Recovery
 
-- [Data Rescue](https://www.prosofteng.com/datarescuepc3/) - Hard drive recovery software that can recover your photos, videos, documents.
+- [Data Rescue](https://www.prosofteng.com/datarescuepc3/) - Comprehensive and professional Hard drive recovery software that can recover your photos, videos, documents.
+- [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) - Has filtering tools to help sort the large amount of data the software can recover.
+- [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - Remote recovery option to recover data from another computer over a network.
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
 
@@ -117,6 +139,4 @@
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
 
-## Thanks
-
-This list was inspired by [awesome-osx](https://github.com/iCHAIT/awesome-osx) and [Ninite](https://ninite.com/)
+[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
