@@ -16,14 +16,22 @@
   - [Data Recovery](#data-recovery)
   - [Documents](#documents)
   - [E-Book Utilities](#e-book-utilities)
-  - [Text Editors](#text-editors)
+  - [Email](#email)
+  - [Games](#games)
+  - [Graphics](#graphics)
   - [Imaging](#imaging)
+  - [Online Storage](#online-storage)
   - [Productivity](#productivity)
   - [Terminal](#terminal)
+  - [Text Editors](#text-editors)
   - [Utilities](#utilities)
   - [Video](#video)
-  - [Others](#others)
+
 - [Developer Tools](#developer-tools)
+- [Setup](#setup)
+- [Security](#security)
+- [Miscellaneous](#miscellaneous)
+- [Discussion Forums](#discussion-forums)
 
 
 ## Applications
@@ -64,13 +72,34 @@
 ### Documents
 
 - [LibreOffice](https://www.libreoffice.org/) - Open source office suite.
+- [Microsoft Office](http://www.office.com) - Microsoft's own productivity suite.
 - [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more.
 - [PDFShaper](http://www.pdfshaper.com/) - A free PDF editor to convert/delete/extract/rotate/split pages with in a pdf file.
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader.
 
 ### E-Book Utilities
 
+- [Bookviser](http://apps.microsoft.com/windows/en-us/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f) - Awesome application for Windows 8 devices to read eBooks in a simple way. 
 - [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion.
+- [kobo](https://www.kobo.com/desktop) - Incredibly ugly but powerful software for ebook management and conversion.
+
+### Email
+
+- [MailBird](https://www.getmailbird.com/) - IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design.
+
+### Games
+
+- [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows.
+- [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github.
+
+### Graphics
+
+- [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][OSS Icon]](http://www.gimp.org/source/)
+- [Pixelmator](http://www.pixelmator.com/) - Powerful image editor, possible Photoshop alternative.
+- [Sketch](http://bohemiancoding.com/sketch/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
+- [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
+- [Lightshot](https://app.prntscr.com) - The fastest way to take a customizable screenshot.
 
 ### Text Editors
 
@@ -90,22 +119,33 @@
 - [Greenshot](http://getgreenshot.org/) - A screenshot tool.
 - [IrfanView](http://www.irfanview.com/) - One of the most popular viewers worldwide.
 - [Paint.NET](http://www.getpaint.net/index.html) - Image and photo editing software for PCs
-- [Snip](https://mix.office.com/Snip) - An image capture tool
+- [Snip](https://mix.office.com/Snip) - An image capture tool.
+
+
+### Online Storage
+
+- [Dropbox](https://www.dropbox.com/install) -Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
+- [Google Drive](https://www.google.com/drive/download/) - Cloud storage solution deeply integrated in the Google ecosystem.
+- [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
+- [Mozy](https://mozy.com/product/download)
+- [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
+
 
 ### Productivity
 
-- [Chocolatey](https://chocolatey.org/) - A package manager for Windows
+- [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
+- [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher.
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
 - [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [Wox](http://www.getwox.com/) - An effective launcher for windows
+- [Wox](http://www.getwox.com/) - An effective launcher for windows.
 
 ### Terminal
 
-- [Babun](http://babun.github.io/) - Alternative Windows shell based on Cygwin
+- [Babun](http://babun.github.io/) - Alternative Windows shell based on Cygwin.
 - [Cmder](https://github.com/cmderdev/cmder) - Console emulator package.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
 - [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
@@ -116,22 +156,92 @@
 
 ### Utilities
 
+- [A-Z of Windows Terminal Commands](http://ss64.com/nt/)
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
+- [Ccleaner](https://www.piriform.com/ccleaner/download) - System cleaning utility which is more easy to understand and use for beginners.
+- [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
+- [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
 - [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
+- [Glary Utilities](http://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
+- [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][OSS Icon]](https://github.com/xroche/httrack/tree/master)
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
-- [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -  A command line utility that can securely delete a file, or clean the slack space
+- [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -  A command line utility that can securely delete a file, or clean the slack space.
+- [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
+- [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX)
+- [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
+- [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
+- [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
+
 
 ### Video
 
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
+- [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
+- [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
 
-### Others
+## Setup
 
+### Windows 10 Setup
+
+* http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
+* http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
+
+### Windows 8.1 Setup
+
+http://windows.microsoft.com/en-IN/windows-8/clean-install
+
+## Security
+
+- [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
+* [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][OSS Icon]](https://github.com/TheTorProject)
+* [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
+* [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - Make Windows 10 more private and safe.
+- [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
+
+
+## Miscellaneous
+
+* [Power Tools](http://www.slant.co/topics/977/~what-are-the-best-power-user-tools-for-windows)
+* [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
+* [list of Shortcut keys](http://imgur.com/a/TIXvm)
+
+## Discussion Forums
+
+#### Windows
+
+* [Windows Support Communities](http://answers.microsoft.com/en-us/windows)
+* [Stackoverflow](http://stackoverflow.com/questions/tagged/windows)
+
+
+#### IRC channels
+
+* [#Windows](https://webchat.freenode.net/?channels=windows)
+* [#microsoft](https://webchat.freenode.net/?channels=microsoft)
+
+
+#### Reddit
+
+* [/r/windows](https://www.reddit.com/r/windows/)
+* [/r/windowsapps](https://www.reddit.com/r/windowsapps)
+* [/r/microsoft](https://www.reddit.com/r/Microsoft)
 
 ## Developer Tools
 
+- [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
+- [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
+- [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or without transparency for more efficient files.
+- [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)
+- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
+- [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
+- [Sql Wave](http://www.sqlwave.com/) - A MySQL database manager.
+- [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
+- [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
+- [Tower](https://openhatch.org/missions/windows-setup/install-git-bash) - command-line git client for windows.
+- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
+- [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
 - [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client.
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
