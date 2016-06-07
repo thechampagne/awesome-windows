@@ -16,7 +16,7 @@
   - [Data Recovery](#data-recovery)
   - [Documents](#documents)
   - [E-Book Utilities](#e-book-utilities)
-  - [Editors](#editors)
+  - [Text Editors](#text-editors)
   - [Imaging](#imaging)
   - [Productivity](#productivity)
   - [Terminal](#terminal)
@@ -43,10 +43,8 @@
 - [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. [![Open-Source Software][OSS Icon]](http://dedg3.com/wao/)
 - [LimeChat](http://limechat.net) - Instant messaging application.
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
-- [Profanity](http://www.profanity.im) - A terminal XMPP client. [![Open-Source Software][OSS Icon]](https://github.com/boothj5/profanity)
-- [Textual 5](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
+- [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
-- [WeeChat](https://weechat.org) - A terminal IRC client. [![Open-Source Software][OSS Icon]](https://github.com/weechat/weechat)
 
 ### Compression
 
@@ -74,7 +72,7 @@
 
 - [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion.
 
-### Editors
+### Text Editors
 
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
@@ -100,7 +98,7 @@
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher.
-- [Listery](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
+- [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
 - [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 - [Wox](http://www.getwox.com/) - An effective launcher for windows
@@ -110,7 +108,11 @@
 - [Babun](http://babun.github.io/) - Alternative Windows shell based on Cygwin
 - [Cmder](https://github.com/cmderdev/cmder) - Console emulator package.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
-- [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering
+- [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
+- [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
+- [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
+- [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
+
 
 ### Utilities
 
@@ -133,10 +135,7 @@
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
 - [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client.
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
-- [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
-- [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
 - [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
-- [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
