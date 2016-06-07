@@ -195,7 +195,13 @@ http://windows.microsoft.com/en-IN/windows-8/clean-install
 
 ## Security
 
+- [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
 - [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
+- [CCleaner](https://www.piriform.com/ccleaner) - For PC Optmization and cleaning computer.
+- [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses.
+- [UnChecky](https://unchecky.com/) - automatically unchecks unrelated offers from installers.
+- [Malwarebytes](https://www.malwarebytes.org/) - protects from dangerous threats that antivirus doesn't.
+
 * [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][OSS Icon]](https://github.com/TheTorProject)
 * [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
 * [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - Make Windows 10 more private and safe.
