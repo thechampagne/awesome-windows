@@ -7,6 +7,7 @@
 > *Special thanks to [egeerardyn](https://github.com/egeerardyn).*
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
+
 ## Table of Contents
 
 - [Applications](#applications)
