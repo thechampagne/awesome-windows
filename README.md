@@ -2,11 +2,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome)
 
 > A curated list of awesome applications, softwares, tools and shiny things for Windows
-> This Awesome Repository is inspired from ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")
+> This Awesome Repository is highly inspired from ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")
 
 > *Special thanks to [egeerardyn](https://github.com/egeerardyn).*
-> *Items marked with ![Open-Source Software][OSS Icon] are open-source software.*
-
+> *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 ## Table of Contents
 
 - [Applications](#applications)
@@ -19,7 +18,6 @@
   - [Email](#email)
   - [Games](#games)
   - [Graphics](#graphics)
-  - [Imaging](#imaging)
   - [Online Storage](#online-storage)
   - [Productivity](#productivity)
   - [Terminal](#terminal)
@@ -38,27 +36,26 @@
 
 ### Audio
 
-- [AIMP](http://www.aimp.ru/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
-- [Audacity](http://audacityteam.org/) - Audio Editor and Recorder.
-- [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer.
-[![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git)
+- [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][Freeware Icon]
+- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
+- [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][Freeware Icon]
 - [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and $60 for individual, non-profit, or small business use.
-- [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files.
-- [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx)
+- [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
+- [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 
 ### Chat Clients
 
-- [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. [![Open-Source Software][OSS Icon]](http://dedg3.com/wao/)
-- [LimeChat](http://limechat.net) - Instant messaging application.
-- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop)
-- [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
-- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
+- [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. ![Freeware][Freeware Icon]
+- [LimeChat](http://limechat.net) - Instant messaging application. ![Freeware][Freeware Icon]
+- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
+- [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client. ![Freeware][Freeware Icon]
+- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. ![Freeware][Freeware Icon]
 
 ### Compression
 
-- [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked.
-- [PeaZip](http://www.peazip.org/) - Archiver and file compressor. Extract 7Z CAB ISO RAR TAR ZIP archive files.
-- [Riot](http://luci.criosweb.ro/riot/) - Compress images either by file size or by many other image attributes.
+- [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked. ![Freeware][Freeware Icon]
+- [PeaZip](http://www.peazip.org/) - Archiver and file compressor. Extract 7Z CAB ISO RAR TAR ZIP archive files. ![Freeware][Freeware Icon]
+- [Riot](http://luci.criosweb.ro/riot/) - Compress images either by file size or by many other image attributes. ![Freeware][Freeware Icon]
 - [WinRAR](http://www.rarlab.com/) -  A powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP and other files.
 
 ### Data Recovery
@@ -71,56 +68,44 @@
 
 ### Documents
 
-- [LibreOffice](https://www.libreoffice.org/) - Open source office suite.
+- [LibreOffice](https://www.libreoffice.org/) - Open source office suite. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 - [Microsoft Office](http://www.office.com) - Microsoft's own productivity suite.
-- [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more.
-- [PDFShaper](http://www.pdfshaper.com/) - A free PDF editor to convert/delete/extract/rotate/split pages with in a pdf file.
-- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader.
+- [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more. [![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html) ![Freeware][Freeware Icon]
+- [NitroPDF](https://www.gonitro.com/pdf-reader) - The best PDF Reader you'll ever get.
+- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. ![Freeware][Freeware Icon]
 
 ### E-Book Utilities
 
-- [Bookviser](http://apps.microsoft.com/windows/en-us/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f) - Awesome application for Windows 8 devices to read eBooks in a simple way. 
-- [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion.
-- [kobo](https://www.kobo.com/desktop) - Incredibly ugly but powerful software for ebook management and conversion.
+- [Bookviser](http://apps.microsoft.com/windows/en-us/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f) - Awesome application for Windows 8 devices to read eBooks in a simple way. ![Freeware][Freeware Icon]
+- [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion. [![Open-Source Software][OSS Icon]](http://calibre-ebook.com/get-involved) ![Freeware][Freeware Icon]
+- [kobo](https://www.kobo.com/desktop) - Incredibly ugly but powerful software for ebook management and conversion. ![Freeware][Freeware Icon]
 
 ### Email
 
-- [MailBird](https://www.getmailbird.com/) - IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
-- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design.
+- [MailBird](https://www.mailbird.com/) - IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
+- [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design. ![Freeware][Freeware Icon]
 
 ### Games
 
-- [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows.
-- [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github.
+- [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
+- [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][Freeware Icon]
 
 ### Graphics
 
-- [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][OSS Icon]](http://www.gimp.org/source/)
-- [Pixelmator](http://www.pixelmator.com/) - Powerful image editor, possible Photoshop alternative.
-- [Sketch](http://bohemiancoding.com/sketch/) - Hybrid vector/bitmap layout application, especially useful for UI, web and mobile design.
-- [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
-- [Lightshot](https://app.prntscr.com) - The fastest way to take a customizable screenshot.
+- [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
+- [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][OSS Icon]](http://www.gimp.org/source/) ![Freeware][Freeware Icon]
+- [Paint.net](http://www.getpaint.net/index.html) - how can you live without paint.net? ![Freeware][Freeware Icon]
 
 ### Text Editors
 
-- [Atom](https://atom.io/) - A hackable text editor for the 21st Century.
-- [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
+- [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
 - [Eclipse](https://eclipse.org/downloads/) - A powerful IDE.
 - [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing.
-- [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code.
-- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages.
+- [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
+- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
-
-
-### Imaging
-
-- [FastStone](http://www.faststone.org/) - Image Viewer, Screen Capture, Photo Resizer.
-- [GIMP](http://www.gimp.org/) - The GNU Image Manipulation Program.
-- [Greenshot](http://getgreenshot.org/) - A screenshot tool.
-- [IrfanView](http://www.irfanview.com/) - One of the most popular viewers worldwide.
-- [Paint.NET](http://www.getpaint.net/index.html) - Image and photo editing software for PCs
-- [Snip](https://mix.office.com/Snip) - An image capture tool.
-
+- [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
 
 ### Online Storage
 
@@ -133,15 +118,15 @@
 
 ### Productivity
 
-- [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
+- [Chocolatey](https://chocolatey.org/) - A package manager for Windows. 
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
-- [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
-- [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher.
+- [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
+- [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][OSS Icon]](https://github.com/OpenNingia/Launchy) ![Freeware][Freeware Icon]
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
-- [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
-- [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
-- [Wox](http://www.getwox.com/) - An effective launcher for windows.
+- [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][Freeware Icon]
+- [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. ![Freeware][Freeware Icon]
+- [Wox](http://www.getwox.com/) - An effective launcher for windows. ![Freeware][Freeware Icon]
 
 ### Terminal
 
@@ -255,3 +240,5 @@ http://windows.microsoft.com/en-IN/windows-8/clean-install
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
 
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+
