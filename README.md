@@ -176,7 +176,7 @@
 
 ### Windows 8.1 Setup
 
-http://windows.microsoft.com/en-IN/windows-8/clean-install
+* http://windows.microsoft.com/en-IN/windows-8/clean-install
 
 ## Security
 
