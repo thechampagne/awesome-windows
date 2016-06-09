@@ -1,10 +1,11 @@
 # <img src="https://raw.githubusercontent.com/rahulkapoor90/awesome-windows/master/media/awesome-windows-icon.png" width="400">
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome)
 
-> A curated list of awesome applications, softwares, tools and shiny things for Windows
-> This Awesome Repository is highly inspired from ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")
+> An awesome & curated list of best applications and tools for Windows. 
 
+> *This Awesome Repository is highly inspired from ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
 > *Special thanks to [egeerardyn](https://github.com/egeerardyn).*
+
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 ## Table of Contents
 
