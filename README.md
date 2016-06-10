@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/rahulkapoor90/awesome-windows/master/media/awesome-windows-icon.png" width="400">
+# <img src="http://i.imgur.com/zHVEUIr.png" width="400">
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome)
 
 > An awesome & curated list of best applications and tools for Windows. 
