@@ -240,7 +240,7 @@
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
 - [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
-https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/OSS.svg
+
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
 
