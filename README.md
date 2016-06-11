@@ -15,6 +15,7 @@
   - [Chat Clients](#chat-clients)
   - [Compression](#compression)
   - [Data Recovery](#data-recovery)
+  - [Developer Tools](#developer-tools)
   - [Documents](#documents)
   - [E-Book Utilities](#e-book-utilities)
   - [Email](#email)
@@ -27,11 +28,16 @@
   - [Utilities](#utilities)
   - [Video](#video)
 
-- [Developer Tools](#developer-tools)
 - [Setup](#setup)
+    - [Windows 10](#windows-10-setup)
+    - [Windows 8.1 setup](#windows-81-setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
+    - [Windows](#windows)
+    - [IRC channels](#irc-channels)
+    - [Reddit](#reddit)
+- [Contribute](#contribute)
 
 
 ## Applications
@@ -67,6 +73,27 @@
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - Remote recovery option to recover data from another computer over a network.
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
+
+### Developer Tools
+
+- [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
+- [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
+- [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or without transparency for more efficient files.
+- [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)
+- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
+- [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
+- [Sql Wave](http://www.sqlwave.com/) - A MySQL database manager.
+- [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
+- [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
+- [Tower](https://openhatch.org/missions/windows-setup/install-git-bash) - command-line git client for windows.
+- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
+- [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
+- [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
+- [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client.
+- [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
+- [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
+- [Wamp](http://www.wampserver.com/en/) - Web development environment.
 
 ### Documents
 
@@ -219,27 +246,22 @@
 * [/r/windows](https://www.reddit.com/r/windows/)
 * [/r/windowsapps](https://www.reddit.com/r/windowsapps)
 * [/r/microsoft](https://www.reddit.com/r/Microsoft)
+* [/r/sysadmin](https://www.reddit.com/r/sysadmin)
+* [/r/microsoftsoftwareswap](https://www.reddit.com/r/microsoftsoftwareswap)
 
-## Developer Tools
+## Contribute
 
-- [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
-- [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
-- [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or without transparency for more efficient files.
-- [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)
-- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
-- [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
-- [Sql Wave](http://www.sqlwave.com/) - A MySQL database manager.
-- [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
-- [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
-- [Tower](https://openhatch.org/missions/windows-setup/install-git-bash) - command-line git client for windows.
-- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
-- [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
-- [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
-- [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
-- [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client.
-- [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
-- [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
-- [Wamp](http://www.wampserver.com/en/) - Web development environment.
+Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
+
+**[⬆ back to top](#table-of-contents)**
+
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
