@@ -8,7 +8,7 @@
 
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 
-# <img src="http://i.imgur.com/FY1YAFe.png" alt="table of contents">
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
 - [Applications](#applications)
   - [Audio](#audio)
