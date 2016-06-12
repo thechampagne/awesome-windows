@@ -29,7 +29,6 @@
   - [Text Editors](#text-editors)
   - [Utilities](#utilities)
   - [Video](#video)
-
 - [Setup](#setup)
     - [Windows 10](#windows-10-setup)
     - [Windows 8.1 setup](#windows-81-setup)
@@ -255,7 +254,7 @@
 
 Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back to top](#applications)**
 
 
 ## License
