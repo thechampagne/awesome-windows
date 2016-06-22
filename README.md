@@ -223,7 +223,6 @@
 
 ## Miscellaneous
 
-* [Power Tools](http://www.slant.co/topics/977/~what-are-the-best-power-user-tools-for-windows)
 * [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
 * [list of Shortcut keys](http://imgur.com/a/TIXvm)
 
