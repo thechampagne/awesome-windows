@@ -51,6 +51,11 @@
 - [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and $60 for individual, non-profit, or small business use.
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
 - [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [Musicbee](http://getmusicbee.com/) - Like iTunes but better than iTunes.
+- [VLC](http://www.videolan.org/vlc/index.html) - Free media player, works pretty well.
+- [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features.
+- [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
+- [Kodi](https://kodi.tv/) - Free and Open Source home theatre software.
 
 ### Chat Clients
 
@@ -118,12 +123,18 @@
 
 - [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
 - [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][Freeware Icon]
+- [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials. 
+- [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
+- [Steam](http://store.steampowered.com/) -  Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time. But you already knew that.
+- [Origin](https://www.origin.com/en-in/store/) - Like Steam, but for EA.
 
 ### Graphics
 
 - [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
 - [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][OSS Icon]](http://www.gimp.org/source/) ![Freeware][Freeware Icon]
 - [Paint.net](http://www.getpaint.net/index.html) - how can you live without paint.net? ![Freeware][Freeware Icon]
+- [Inkscape](https://inkscape.org/en/) - Free vector-based graphic design software.
+- [Krita](https://krita.org/) - Free drawing software with a bunch of cool features.
 
 ### Text Editors
 
