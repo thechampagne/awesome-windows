@@ -88,7 +88,7 @@
 - [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)
 - [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
 - [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
-- [Sql Wave](http://www.sqlwave.com/) - A MySQL database manager.
+- [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
@@ -178,6 +178,7 @@
 - [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
+- [Kitty](http://www.9bis.net/kitty/) - advanced Putty (SSH and telnet client).
 
 
 ### Utilities
