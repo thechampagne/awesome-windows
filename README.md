@@ -267,7 +267,7 @@
 
 ## Contribute
 
-Contributions are most welcome, please adhere to the [contribution guidelines](contributing.md).
+Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
 
 **[⬆ back to top](#applications)**
 
