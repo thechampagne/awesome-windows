@@ -144,9 +144,9 @@
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
 - [Eclipse](https://eclipse.org/downloads/) - A powerful IDE.
-- [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing.
+- [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
-- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. ![Freeware][Freeware Icon]
+- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
 
@@ -168,8 +168,8 @@
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][OSS Icon]](https://github.com/OpenNingia/Launchy) ![Freeware][Freeware Icon]
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][Freeware Icon]
-- [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. ![Freeware][Freeware Icon]
-- [Wox](http://www.getwox.com/) - An effective launcher for windows. ![Freeware][Freeware Icon]
+- [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
+- [Wox](http://www.getwox.com/) - An effective launcher for windows. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
 
 ### Terminal
 
