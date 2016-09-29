@@ -227,6 +227,7 @@
 - [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
 - [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
 - [CCleaner](https://www.piriform.com/ccleaner) - For PC Optmization and cleaning computer.
+- [GlassWire](https://www.glasswire.com/) - Network security monitoring tool and analyzer that visualizes your network activity.
 - [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses.
 - [UnChecky](https://unchecky.com/) - automatically unchecks unrelated offers from installers.
 - [Malwarebytes](https://www.malwarebytes.org/) - protects from dangerous threats that antivirus doesn't.
