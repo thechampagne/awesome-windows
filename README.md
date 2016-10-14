@@ -189,6 +189,7 @@
 - [A-Z of Windows Terminal Commands](http://ss64.com/nt/)
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [Ccleaner](https://www.piriform.com/ccleaner/download) - System cleaning utility which is more easy to understand and use for beginners.
+- [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
 - [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
