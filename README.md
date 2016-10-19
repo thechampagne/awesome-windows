@@ -82,24 +82,25 @@
 
 ### Developer Tools
 
-- [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
-- [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
-- [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or without transparency for more efficient files.
-- [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)
-- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface. 
-- [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
-- [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
-- [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
-- [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
-- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
-- [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
-- [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
-- [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
+- [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
 - [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client.
-- [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
+- [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
+- [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)
+- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface.
+thout transparency for more efficient files.
+- [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
+- [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers. 
+- [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
+- [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
 - [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
+- [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
+- [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
+- [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
+- [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
+- [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
+- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 ### Documents
 
