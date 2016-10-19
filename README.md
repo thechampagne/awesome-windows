@@ -166,6 +166,7 @@ thout transparency for more efficient files.
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
+- [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][OSS Icon]](https://github.com/OpenNingia/Launchy) ![Freeware][Freeware Icon]
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][Freeware Icon]

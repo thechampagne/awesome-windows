@@ -165,6 +165,7 @@
 - [Ditto](http://ditto-cp.sourceforge.net/) - 剪贴板管理器。
 - [Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具的名称。
 - [f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕以匹配照明。 ![Freeware][Freeware Icon]
+- [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记本应用程序。
 - [Launchy](http://www.launchy.net/) - 开源击键启动器。 [![Open-Source Software][OSS Icon]](https://github.com/OpenNingia/Launchy) ![Freeware][Freeware Icon]
 - [Listary](http://www.listary.com/) - 保持文件在您的指尖。 独特的搜索实用程序。
 - [Ninite](https://ninite.com/) - 最简单，最快速的更新或安装软件的方法。 ![Freeware][Freeware Icon]
