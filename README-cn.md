@@ -29,7 +29,7 @@
   - [文本编辑器](#文本编辑器)
   - [实用程序](#公用事业)
   - [视频](#视频)
-- [建立](#建立)
+- [配置与安装](#配置与安装)
     - [Windows 10](#windows-10-setup)
     - [Windows 8.1 setup](#windows-81-setup)
 - [安全](#安全)
@@ -214,7 +214,7 @@
 - [VLC](http://www.videolan.org/vlc/index.html) - 多媒体播放器和框架，播放DVD，音频CD，VCD和各种流协议。
 - [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器具有广泛的编解码器集合，它还为用户提供广泛的配置选项。
 
-## 建立
+## 配置与安装
 
 ### Windows 10 Setup
 
