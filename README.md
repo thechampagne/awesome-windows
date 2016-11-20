@@ -164,6 +164,7 @@ thout transparency for more efficient files.
 
 ### Productivity
 
+-[Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows. 
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
@@ -173,9 +174,10 @@ thout transparency for more efficient files.
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][Freeware Icon]
 - [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
+- [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][Freeware Icon]
 - [Wox](http://www.getwox.com/) - An effective launcher for windows. [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
-- [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
+
 
 ### Terminal
 
