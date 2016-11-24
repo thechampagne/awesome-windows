@@ -62,7 +62,7 @@
 - [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. ![Freeware][Freeware Icon]
 - [LimeChat](http://limechat.net) - Instant messaging application. ![Freeware][Freeware Icon]
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
-- [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client. ![Freeware][Freeware Icon]
+- [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. ![Freeware][Freeware Icon]
 - [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
 
