@@ -257,7 +257,8 @@ thout transparency for more efficient files.
 #### Windows
 
 * [Windows Support Communities](http://answers.microsoft.com/en-us/windows)
-* [Stackoverflow](http://stackoverflow.com/questions/tagged/windows)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/windows)
+* [Super User](http://superuser.com/questions/tagged/windows*)
 
 
 #### IRC channels
