@@ -59,6 +59,7 @@
 
 ### Chat Clients
 
+- [Hexchat](https://hexchat.github.io/) - IRC client based on XChat [![Open-Source Software][OSS Icon]](https://hexchat.github.io/) ![Freeware][Freeware Icon]
 - [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. ![Freeware][Freeware Icon]
 - [LimeChat](http://limechat.net) - Instant messaging application. ![Freeware][Freeware Icon]
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
