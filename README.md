@@ -165,6 +165,7 @@ thout transparency for more efficient files.
 
 ### Productivity
 
+- [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][OSS Icon]](https://autohotkey.com/) ![Freeware][Freeware Icon]
 - [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows. 
 - [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
