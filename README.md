@@ -136,6 +136,7 @@ thout transparency for more efficient files.
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
 - [Steam](http://store.steampowered.com/) -  Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time. But you already knew that.
 - [Origin](https://www.origin.com/en-in/store/) - Like Steam, but for EA.
+- [Itch.io](https://itch.io/app/) - Install, update and play indie games. [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) ![Freeware][Freeware Icon]
 
 ### Graphics
 
