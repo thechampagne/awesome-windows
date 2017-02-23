@@ -57,6 +57,7 @@
 - [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features.
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
 - [Kodi](https://kodi.tv/) - Free and Open Source home theatre software.
+- [Resonic](https://resonic.at/) - Fast and free audio player.
 
 ### Chat Clients
 
