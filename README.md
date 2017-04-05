@@ -105,6 +105,7 @@ thout transparency for more efficient files.
 - [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
+- [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant)
 - [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
 - [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. ![Open-Source Software][OSS Icon] [![Freeware][Freeware Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html)
