@@ -173,7 +173,7 @@
 - [Simplenote](https://simplenote.com/) - 简单的跨平台笔记应用程序与基于云的同步。 ![Freeware][Freeware Icon]
 - [Wox](http://www.getwox.com/) - 一个有效的窗口发射器。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
 
-### 终奌站
+### 终端
 
 - [Babun](http://babun.github.io/) - 基于Cygwin的替代Windows shell。
 - [Cmder](https://github.com/cmderdev/cmder) -控制台模拟器包。
