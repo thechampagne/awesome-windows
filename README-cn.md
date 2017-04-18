@@ -1,14 +1,14 @@
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
 
 [![Join the chat at https://gitter.im/Awesome-Windows/Awesome](https://badges.gitter.im/Awesome-Windows/Awesome.svg)](https://gitter.im/Awesome-Windows/Awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
-> 一个真棒和精选的最佳应用程序和工具的Windows列表。 
+> 一个真棒和精选的最佳应用程序和工具的Windows列表。
 
-> *这个Awesome存储库是高度灵感 ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
+> *这个Awesome库灵感来源于 ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
 > *特别感谢 [egeerardyn](https://github.com/egeerardyn).*
 
-> *标有的项目 ![Open-Source Software][OSS Icon] 是开源软件。 标有的项目![Freeware][Freeware Icon] 是免费的。*
+> *标有的项目 ![Open-Source Software][OSS Icon] 是开源软件。 标有的项目![Freeware][Freeware Icon] 是免费软件。*
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
@@ -24,8 +24,8 @@
   - [游戏](#游戏)
   - [图形](#图形)
   - [在线存储](#在线存储)
-  - [生产率](#生产率)
-  - [终奌站](#终奌站)
+  - [生产力工具](#生产力工具)
+  - [终端](#终端)
   - [文本编辑器](#文本编辑器)
   - [实用程序](#公用事业)
   - [视频](#视频)
@@ -33,12 +33,12 @@
     - [Windows 10](#windows-10-setup)
     - [Windows 8.1 setup](#windows-81-setup)
 - [安全](#安全)
-- [杂](#杂)
+- [杂项](#杂项)
 - [论坛](#论坛)
     - [Windows](#windows)
     - [IRC通道](#irc-channels)
     - [Reddit](#reddit)
-- [有助于](#有助于)
+- [贡献](#贡献)
 
 
 ## 应用程序
@@ -48,22 +48,24 @@
 - [AIMP](http://www.aimp.ru/) - 32位音频处理和多格式播放。 ![Freeware][Freeware Icon]
 - [Audacity](http://audacityteam.org/) - 免费，开源，跨平台软件，用于录制和编辑声音。 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) -音频/ MIDI多轨序列器。[![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][Freeware Icon]
-- [Reaper](http://www.reaper.fm/download.php) - 轻量级应用程序具有深层功能集，$ 60用于个人，非营利或小型企业使用。
+- [Reaper](http://www.reaper.fm/download.php) - 功能深入却轻量的应用程序, 个人，非营利或小型企业使用时收费$60。
 - [Winamp](http://www.winamp.com/) - 能播放MP3，MP2，WAV，VOCAls和MIDI文件的音乐播放器。![Freeware][Freeware Icon]
-- [Mixxx](http://mixxx.org/) - 免费DJ软件，给你一切你需要执行的现场混音，真正替代Traktor。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
-- [Musicbee](http://getmusicbee.com/) - 像iTunes，但比iTunes更好。
+- [Mixxx](http://mixxx.org/) - 免费DJ软件，给你一切现场混音所需的功能，真正可替代Traktor。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [Musicbee](http://getmusicbee.com/) - 类似iTunes，但比iTunes更好用。
 - [VLC](http://www.videolan.org/vlc/index.html) - 免费媒体播放器，工作相当不错。
-- [Foobar2000](http://www.foobar2000.org/) - 免费音频播放器的Windows，支持各种各样的音频格式，并有很多很酷的功能。
-- [Exact Audio Copy](http://www.exactaudiocopy.de/) - 将文件从您的CD到几乎每种格式到您的电脑。有一些漂亮的功能太。
+- [Foobar2000](http://www.foobar2000.org/) - Windows版的免费音频播放器，支持各种各样的音频格式，并有很多很酷的功能。
+- [Exact Audio Copy](http://www.exactaudiocopy.de/) - 从您的CD转换成几乎任何格式到您的电脑, 同时有一些漂亮的功能。
 - [Kodi](https://kodi.tv/) -免费和开源家庭影院软件。
+- [Resonic](https://resonic.at/) - 免费快速的音频播放器。
 
 ### 聊天客户端
 
+[Hexchat](https://hexchat.github.io/) - 基于XChat的IRC客户端 [![Open-Source Software][OSS Icon]](https://hexchat.github.io/) ![Freeware][Freeware Icon]
 - [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web客户端为您提供最好的WhatsApp的经验。 ![Freeware][Freeware Icon]
 - [LimeChat](http://limechat.net) -即时通讯应用。 ![Freeware][Freeware Icon]
-- [Messenger for Desktop](http://messengerfordesktop.com/) - Facebook信使的应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
+- [Messenger for Desktop](http://messengerfordesktop.com/) - 一款 Facebook messenger 的桌面端程序。 [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
 - [mIRC](http://www.mirc.com/) - 互联网中继聊天（IRC）客户端。![Freeware][Freeware Icon]
-- [Telegram](https://desktop.telegram.org/) - 一个专注于速度和安全性的消息应用程序，它的超快速，简单和免费。![Freeware][Freeware Icon]
+- [Telegram](https://desktop.telegram.org/) - 一个专注于速度和安全性的消息应用程序，它速度极快，简单且免费。![Freeware][Freeware Icon]
 
 ### 压缩
 
@@ -159,7 +161,7 @@
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - 能够同步超过100,000个文件，并支持文件名和长度超过256个字符的文件路径中的两个特殊字符。
 
 
-### 生产率
+### 生产力工具
 
 - [Chocolatey](https://chocolatey.org/) - Windows的包管理器。
 - [Ditto](http://ditto-cp.sourceforge.net/) - 剪贴板管理器。
@@ -240,7 +242,7 @@
 - [Viscosity](https://www.sparklabs.com/viscosity/) - 全功能的OpenVPN客户端，准备企业部署。
 
 
-## 杂
+## 杂项
 
 * [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
 * [list of Shortcut keys](http://imgur.com/a/TIXvm)
@@ -267,7 +269,7 @@
 * [/r/sysadmin](https://www.reddit.com/r/sysadmin)
 * [/r/microsoftsoftwareswap](https://www.reddit.com/r/microsoftsoftwareswap)
 
-## 有助于
+## 贡献
 
 贡献是最受欢迎的，请坚持 [contribution guidelines](Contributing.md).
 
@@ -283,4 +285,3 @@
 
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
-
