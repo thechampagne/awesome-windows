@@ -250,7 +250,9 @@
 - [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 - [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
+- [ScreenToGif](http://www.screentogif.com/) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video. [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 - [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
+- [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that can save different preferences for any single video. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS)
 
 ## Setup
@@ -267,17 +269,21 @@
 
 ## Security
 
-- [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker.
+- [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) - A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file. ![Freeware][Freeware Icon]
+- [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker. ![Freeware][Freeware Icon]
 - [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
 - [CCleaner](https://www.piriform.com/ccleaner) - For PC Optmization and cleaning computer.
+- [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon] 
+- [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][Freeware Icon] 
 - [GlassWire](https://www.glasswire.com/) - Network security monitoring tool and analyzer that visualizes your network activity.
-- [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses.
+- [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses. ![Freeware][Freeware Icon]
 - [UnChecky](https://unchecky.com/) - automatically unchecks unrelated offers from installers.
-- [Malwarebytes](https://www.malwarebytes.org/) - protects from dangerous threats that antivirus doesn't.
-- [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][OSS Icon]](https://github.com/TheTorProject)
+- [Malwarebytes](https://www.malwarebytes.org/) - protects from dangerous threats that antivirus doesn't. ![Freeware][Freeware Icon]
+- [NetLimiter]() - Internet traffic control and monitoring tool. ![Freeware][Freeware Icon]
+- [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][OSS Icon]](https://github.com/TheTorProject) ![Freeware][Freeware Icon]
 - [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
-- [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - Make Windows 10 more private and safe.
-- [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
+- [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - Make Windows 10 more private and safe. ![Freeware][Freeware Icon]
+- [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment. ![Freeware][Freeware Icon]
 
 
 ## Miscellaneous
