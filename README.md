@@ -83,8 +83,8 @@
 
 ### Customization
 
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) [![Freeware][Freeware Icon]
-- [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background.  [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) [![Freeware][Freeware Icon]
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
+- [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background.  [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][Freeware Icon]
 
 
 
@@ -93,7 +93,7 @@
 - [Data Rescue](https://www.prosofteng.com/datarescuepc3/) - Comprehensive and professional Hard drive recovery software that can recover your photos, videos, documents.
 - [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) - Has filtering tools to help sort the large amount of data the software can recover.
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - Remote recovery option to recover data from another computer over a network.
-- [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) - Data recovery with partition recovery. [![Freeware][Freeware Icon]
+- [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) - Data recovery with partition recovery. ![Freeware][Freeware Icon]
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
 
