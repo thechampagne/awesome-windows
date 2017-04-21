@@ -16,6 +16,7 @@
   - [Audio](#audio)
   - [Chat Clients](#chat-clients)
   - [Compression](#compression)
+  - [Customization](#customization)
   - [Data Recovery](#data-recovery)
   - [Developer Tools](#developer-tools)
   - [Documents](#documents)
@@ -48,15 +49,18 @@
 - [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][Freeware Icon]
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [CDex](http://www.cdex.fr/) - CD Ripper (french site, english program). ![Freeware][Freeware Icon]
+- [Dopamine](http://www.digimezzo.com/software/dopamine/) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. ![Freeware][Freeware Icon]
+- [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools. ![Freeware][Freeware Icon]
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][Freeware Icon]
 - [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and $60 for individual, non-profit, or small business use.
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
 - [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [Musicbee](http://getmusicbee.com/) - Like iTunes but better than iTunes.
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - Free media player, works pretty well.
 - [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features.
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
-- [Kodi](https://kodi.tv/) - Free and Open Source home theatre software.
+- [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][OSS Icon]](https://github.com/xbmc) ![Freeware][Freeware Icon]
 - [Resonic](https://resonic.at/) - Fast and free audio player.
 
 ### Chat Clients
@@ -66,35 +70,44 @@
 - [LimeChat](http://limechat.net) - Instant messaging application. ![Freeware][Freeware Icon]
 - [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
 - [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
-- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. ![Freeware][Freeware Icon]
+- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
 - [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
 
 ### Compression
 
-- [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked. [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) [![Freeware][Freeware Icon]](http://www.7-zip.org/download.html)
+- [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked. [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) [![Freeware][Freeware Icon]
+- [Bandizip](https://www.bandisoft.com/bandizip/) - A lightweight, fast and free All-In-One Zip Archiver. ![Freeware][Freeware Icon]
 - [PeaZip](http://www.peazip.org/) - Archiver and file compressor. Extract 7Z CAB ISO RAR TAR ZIP archive files. ![Freeware][Freeware Icon]
 - [Riot](http://luci.criosweb.ro/riot/) - Compress images either by file size or by many other image attributes. ![Freeware][Freeware Icon]
 - [WinRAR](http://www.rarlab.com/) -  A powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP and other files.
+
+### Customization
+
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) [![Freeware][Freeware Icon]
+- [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background.  [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) [![Freeware][Freeware Icon]
+
+
 
 ### Data Recovery
 
 - [Data Rescue](https://www.prosofteng.com/datarescuepc3/) - Comprehensive and professional Hard drive recovery software that can recover your photos, videos, documents.
 - [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) - Has filtering tools to help sort the large amount of data the software can recover.
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - Remote recovery option to recover data from another computer over a network.
+- [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) - Data recovery with partition recovery. [![Freeware][Freeware Icon]
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
 
 ### Developer Tools
 
+- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 - [DB Browser for SQLite](http://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][OSS Icon]](http://sqlitebrowser.org/)
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
-- [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client.
+- [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. ![Freeware][Freeware Icon]
 - [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
 - [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][Freeware Icon]
-- [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)
+- [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][Freeware Icon]
 - [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface.
-thout transparency for more efficient files.
 - [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 - [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
@@ -109,8 +122,8 @@ thout transparency for more efficient files.
 - [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
 - [Visual Studio Code](https://code.visualstudio.com/) - Lightweight Source Code Editor.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
-- [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. ![Open-Source Software][OSS Icon] [![Freeware][Freeware Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html)
-- [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment.
+- [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][Freeware Icon] 
+- [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment. ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 ### Documents
