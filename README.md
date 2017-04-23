@@ -122,7 +122,7 @@
 - [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
 - [Visual Studio Code](https://code.visualstudio.com/) - Lightweight Source Code Editor.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
-- [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][Freeware Icon] 
+- [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][Freeware Icon]
 - [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment. ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
@@ -238,6 +238,7 @@
 - [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
 - [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
+- [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 - [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
@@ -273,10 +274,12 @@
 - [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker. ![Freeware][Freeware Icon]
 - [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
 - [CCleaner](https://www.piriform.com/ccleaner) - For PC Optmization and cleaning computer.
-- [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon] 
-- [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][Freeware Icon] 
+- [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
+- [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][Freeware Icon]
 - [GlassWire](https://www.glasswire.com/) - Network security monitoring tool and analyzer that visualizes your network activity.
+- [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - A utility for configuring encryption protocols, cyphers, hashing methods, and key exchanges for Windows components (eg TLS/AES/SHA for Remote Desktop)
 - [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses. ![Freeware][Freeware Icon]
+- [System Explorer](http://systemexplorer.net) - An enhanced task manager with support for monitoring and modifying system processes, start-up programs, system services, drivers, shell extensions, and more.
 - [UnChecky](https://unchecky.com/) - automatically unchecks unrelated offers from installers.
 - [Malwarebytes](https://www.malwarebytes.org/) - protects from dangerous threats that antivirus doesn't. ![Freeware][Freeware Icon]
 - [NetLimiter]() - Internet traffic control and monitoring tool. ![Freeware][Freeware Icon]
