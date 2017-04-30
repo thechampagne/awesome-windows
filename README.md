@@ -28,6 +28,7 @@
   - [Productivity](#productivity)
   - [Terminal](#terminal)
   - [Text Editors](#text-editors)
+  - [IDEs](#IDEs)
   - [Utilities](#utilities)
   - [Video](#video)
 - [Setup](#setup)
@@ -171,12 +172,19 @@
 
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
-- [Eclipse](https://eclipse.org/downloads/) - A powerful IDE.
 - [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 - [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
+
+### IDEs
+
+- [Eclipse](https://eclipse.org/downloads/) - A powerful IDE. [![Open-Source Software][OSS Icon]](https://git.eclipse.org/c/) ![Freeware][Freeware Icon]
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE.
+- [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
+- [Visual Studio](https://www.visualstudio.com/vs/) - Microsofts official IDE. Supports a multitude of languages via plugins.
+- [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based off IntelliJ's IDEA IDE. [![Open-Source Software][OSS Icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][Freeware Icon]
 
 ### Online Storage
 
