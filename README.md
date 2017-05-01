@@ -28,7 +28,7 @@
   - [Productivity](#productivity)
   - [Terminal](#terminal)
   - [Text Editors](#text-editors)
-  - [IDEs](#IDEs)
+  - [IDEs](#ides)
   - [Utilities](#utilities)
   - [Video](#video)
 - [Setup](#setup)
