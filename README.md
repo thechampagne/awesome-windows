@@ -236,10 +236,12 @@
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [Ccleaner](https://www.piriform.com/ccleaner/download) - System cleaning utility which is more easy to understand and use for beginners.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
+- [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][Freeware Icon]
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
 - [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
 - [Glary Utilities](http://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
+- [GPU-Z](http://www.techpowerup.com/gpuz/) - A free all-in-one GPU monitoring tool. ![Freeware][Freeware Icon]
 - [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][OSS Icon]](https://github.com/xroche/httrack/tree/master)
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
