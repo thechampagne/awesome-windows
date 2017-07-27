@@ -101,6 +101,7 @@
 ### Developer Tools
 
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
+- [Addict](https://github.com/dthree/addict) - Drop-in REST API for Active Directory.
 - [DB Browser for SQLite](http://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][OSS Icon]](http://sqlitebrowser.org/)
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
