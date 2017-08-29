@@ -118,6 +118,7 @@
 - [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
 - [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
 - [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
+- [Robo 3T](https://robomongo.org/) - A lightweight GUI for MongoDB enthusiasts.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
 - [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
