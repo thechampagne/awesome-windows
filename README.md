@@ -300,6 +300,7 @@
 - [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][Freeware Icon]
 - [GlassWire](https://www.glasswire.com/) - Network security monitoring tool and analyzer that visualizes your network activity.
 - [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - A utility for configuring encryption protocols, cyphers, hashing methods, and key exchanges for Windows components (eg TLS/AES/SHA for Remote Desktop)
+- [KeePass](http://www.keepass.info) - Free, open-source, easy-to-use password manager. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keepass/) ![Freeware][Freeware Icon]
 - [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses. ![Freeware][Freeware Icon]
 - [System Explorer](http://systemexplorer.net) - An enhanced task manager with support for monitoring and modifying system processes, start-up programs, system services, drivers, shell extensions, and more.
 - [UnChecky](https://unchecky.com/) - automatically unchecks unrelated offers from installers.
@@ -309,7 +310,6 @@
 - [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
 - [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - Make Windows 10 more private and safe. ![Freeware][Freeware Icon]
 - [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment. ![Freeware][Freeware Icon]
-
 
 ## Miscellaneous
 
