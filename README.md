@@ -49,7 +49,7 @@
 
 - [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][Freeware Icon]
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
-- [CDex](http://www.cdex.fr/) - CD Ripper (french site, english program). ![Freeware][Freeware Icon]
+- [CDex](http://www.cdex.fr/) - CD Ripper (French site, English program). ![Freeware][Freeware Icon]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. ![Freeware][Freeware Icon]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools. ![Freeware][Freeware Icon]
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][Freeware Icon]
@@ -60,7 +60,7 @@
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - Free media player, works pretty well.
 - [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features.
-- [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty niffty features too.
+- [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
 - [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][OSS Icon]](https://github.com/xbmc) ![Freeware][Freeware Icon]
 - [Resonic](https://resonic.at/) - Fast and free audio player.
 
@@ -110,7 +110,7 @@
 - [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
 - [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][Freeware Icon]
 - [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][Freeware Icon]
-- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface.
+- [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface.
 - [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 - [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
@@ -300,7 +300,7 @@
 - [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) - A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file. ![Freeware][Freeware Icon]
 - [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker. ![Freeware][Freeware Icon]
 - [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
-- [CCleaner](https://www.piriform.com/ccleaner) - For PC Optmization and cleaning computer.
+- [CCleaner](https://www.piriform.com/ccleaner) - For PC Optimization and cleaning computer.
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
 - [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][Freeware Icon]
 - [GlassWire](https://www.glasswire.com/) - Network security monitoring tool and analyzer that visualizes your network activity.
