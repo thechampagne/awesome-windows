@@ -25,6 +25,7 @@
   - [Games](#games)
   - [Graphics](#graphics)
   - [Online Storage](#online-storage)
+  - [Backup](#backup)
   - [Productivity](#productivity)
   - [Terminal](#terminal)
   - [Text Editors](#text-editors)
@@ -97,7 +98,7 @@
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - Remote recovery option to recover data from another computer over a network.
 - [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) - Data recovery with partition recovery. ![Freeware][Freeware Icon]
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
-- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
+- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again. 
 
 ### Developer Tools
 
@@ -207,6 +208,8 @@
 - [Mozy](https://mozy.com/product/download)
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
 
+### Backup
+- [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux.[![Open-Source Software][OSS Icon]](https://github.com/duplicati/duplicati) ![Freeware][Freeware Icon]
 
 ### Productivity
 
