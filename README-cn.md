@@ -76,7 +76,7 @@
 
 ### 压缩
 
-- [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。 [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) [![Freeware][Freeware Icon]
+- [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。 [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) ![Freeware][Freeware Icon]
 - [Bandizip](https://www.bandisoft.com/bandizip/) - 集轻量，快速与免费一体的zip压缩程序。 ![Freeware][Freeware Icon]
 - [PeaZip](http://www.peazip.org/) - 归档器和文件压缩器。 提取7Z CAB ISO RAR TAR ZIP归档文件。 ![Freeware][Freeware Icon]
 - [Riot](http://luci.criosweb.ro/riot/) -通过文件大小或许多其他图像属性压缩图像。 ![Freeware][Freeware Icon]
