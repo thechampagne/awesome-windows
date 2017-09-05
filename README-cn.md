@@ -73,6 +73,7 @@
 - [mIRC](http://www.mirc.com/) - 互联网中继聊天（IRC）客户端。![Freeware][Freeware Icon]
 - [Telegram](https://desktop.telegram.org/) - 一个专注于速度和安全性的消息应用程序，它速度极快，简单且免费。[![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
 - [Quassel](http://quassel-irc.org/) - Quassel IRC 是一款现代, 跨平台, 分布式的 IRC 客户端。 [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
+- [Discord](https://discordapp.com) - Discord是免费的语音和文本聊天客户端，适合玩家和非玩家。您可以从浏览器使用它，它可以在iOS，Android，Windows，Mac和Linux上使用。 ![Freeware][Freeware Icon]
 
 ### 压缩
 
