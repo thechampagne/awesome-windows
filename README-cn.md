@@ -73,10 +73,11 @@
 - [mIRC](http://www.mirc.com/) - 互联网中继聊天（IRC）客户端。![Freeware][Freeware Icon]
 - [Telegram](https://desktop.telegram.org/) - 一个专注于速度和安全性的消息应用程序，它速度极快，简单且免费。[![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
 - [Quassel](http://quassel-irc.org/) - Quassel IRC 是一款现代, 跨平台, 分布式的 IRC 客户端。 [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
+- [Discord](https://discordapp.com) - Discord是免费的语音和文本聊天客户端，适合玩家和非玩家。您可以从浏览器使用它，它可以在iOS，Android，Windows，Mac和Linux上使用。 ![Freeware][Freeware Icon]
 
 ### 压缩
 
-- [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。 [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) [![Freeware][Freeware Icon]
+- [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。 [![Open-Source Software][OSS Icon]](http://www.7-zip.org/download.html) ![Freeware][Freeware Icon]
 - [Bandizip](https://www.bandisoft.com/bandizip/) - 集轻量，快速与免费一体的zip压缩程序。 ![Freeware][Freeware Icon]
 - [PeaZip](http://www.peazip.org/) - 归档器和文件压缩器。 提取7Z CAB ISO RAR TAR ZIP归档文件。 ![Freeware][Freeware Icon]
 - [Riot](http://luci.criosweb.ro/riot/) -通过文件大小或许多其他图像属性压缩图像。 ![Freeware][Freeware Icon]
@@ -228,6 +229,7 @@
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - 多标签 PuTTY。
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH 和 telnet 客户端。
 - [Kitty](http://www.9bis.net/kitty/) - 高级 Putty (SSH 和 telnet 客户端)。
+- [Terminus](https://eugeny.github.io/terminus/) - 基于Web技术的现代高度可配置的终端应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 
 
 ### 实用程序
