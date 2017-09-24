@@ -113,7 +113,7 @@
 - [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
 - [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][Freeware Icon]
 - [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][Freeware Icon]
-- [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface.
+- [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
 - [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMP, WAMP and very user friendly). ![Freeware][Freeware Icon]
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
