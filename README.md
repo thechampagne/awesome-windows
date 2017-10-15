@@ -299,7 +299,7 @@
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 - [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 - [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
-- [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
+- [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 - [ScreenToGif](http://www.screentogif.com/) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video. [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 - [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that can save different preferences for any single video. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
