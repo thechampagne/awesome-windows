@@ -215,6 +215,7 @@
 - [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
 - [Mozy](https://mozy.com/product/download)
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
+- [Mega](https://mega.nz/) - Encrypted file storage.
 
 ### Backup
 
