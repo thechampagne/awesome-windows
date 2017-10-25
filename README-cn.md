@@ -25,6 +25,7 @@
   - [游戏](#游戏)
   - [图形](#图形)
   - [在线存储](#在线存储)
+  - [备份](#备份)
   - [生产力工具](#生产力工具)
   - [终端](#终端)
   - [文本编辑器](#文本编辑器)
@@ -85,14 +86,20 @@
 
 ### 个性化
 
+- [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - 允许定制和扩展 Windows 任务栏的功能，借以提高生产力。![Freeware][Freeware Icon]
+- [Classic Shell](http://www.classicshell.net/) - 将你的开始菜单和资源管理器改为 Windows 2000的样式。
+- [Clover](http://en.ejie.me/) - 为资源管理器加上多标签功能。![Freeware][Freeware Icon]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - 透明化你的 Windows 任务栏。 [![Open-Source Software][OSS Icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
+- [QTTabBar](http://qttabbar.wikidot.com/) - 通过多标签和额外的文件夹视图扩展资源管理器的功能。![Freeware][Freeware Icon]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - 允许你修改 Windows 10 的登录背景。  [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][Freeware Icon]
+- [ZBar](http://www.zhornsoftware.co.uk/zbar/) - 如果你使用多个显示器，它可以让你在每个显示器上单独显示任务栏。
 
 ### 数据恢复
 
 - [Data Rescue](https://www.prosofteng.com/datarescuepc3/) - 综合和专业的硬盘恢复软件，可以恢复你的照片，视频，文件。
 - [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) - 拥有过滤工具，可用于将需恢复的大量数据排序。
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - 提供远程恢复选项, 可通过网络从另一台计算机恢复数据。
+- [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) - 数据恢复及分区恢复功能。 ![Freeware][Freeware Icon]
 - [Recuva](https://www.piriform.com/recuva) - 快速，轻松地恢复已删除的文件。
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - 强大的免费数据恢复软件, 主要设计用于帮助恢复丢失的分区和/或使非引导磁盘重新启动。
 
@@ -130,12 +137,14 @@
 
 ### 文档
 
-- [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice 提供一套完整的 office 套件，拥有文字编辑器，电子表格程序和演示程序 - 均与 office 对应程序相兼容。  ![Freeware][Freeware Icon]
+- [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice 提供一套完整的办公套件，拥有文字编辑器，电子表格程序和演示程序 - 均与 office 对应程序相兼容。  ![Freeware][Freeware Icon]
 - [LibreOffice](https://www.libreoffice.org/) - 开源办公套件。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 - [Microsoft Office](http://www.office.com) - 微软自己的生产力套件。
+- [OnlyOffice](https://www.onlyoffice.com/) - 最完整，功能齐全的办公和生产力套件。![Freeware][Freeware Icon]
 - [OpenOffice](https://www.openoffice.org/) - 软件套件，用于文字处理，电子表格，演示文稿，图形，数据库等。 [![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html) ![Freeware][Freeware Icon]
 - [NitroPDF](https://www.gonitro.com/pdf-reader) - 你会得到最好的PDF阅读器。
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR阅读器。 ![Freeware][Freeware Icon]
+- [WPS Office](https://www.wps.com/office-free) - 完美的免费办公软件。![Freeware][Freeware Icon]
 
 ### 电子书实用程序
 
@@ -152,6 +161,7 @@
 
 ### 游戏
 
+- [0 A.D.](https://play0ad.com/) - 免费，开源，实时的关于古代战争的策略游戏。 [![Open-Source Software][OSS Icon]](https://github.com/0ad/0ad) ![Freeware][Freeware Icon]
 - [Warsow](https://www.warsow.net/) - Windows上免费和快节奏的FPS游戏。 ![Freeware][Freeware Icon]
 - [Awesome Games](https://github.com/leereilly/games) - 在Github上托管的游戏列表。 ![Freeware][Freeware Icon]
 - [GOG Galaxy](https://www.gog.com/galaxy) - 类似Steam的DRM-free游戏平台。
@@ -175,7 +185,9 @@
 - [Brackets](http://brackets.io/) - 一款擅长网页设计的现代，开源文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
 - [GVim](http://www.vim.org/download.php#pc) - （G）Vim是一款高度可配置的文本编辑器，用于高效的文本编辑。 [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Light Table](http://lighttable.com/) - 具有即时反馈和显示代码中数据值的可定制的编辑器。[![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
+- [Neovim](https://neovim.io/) - vim真正的继任者。
 - [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
+- [Notepad2](http://www.flos-freeware.ch/notepad2.html) - 用于替代默认文本编辑器的轻量快速的编辑器，拥有众多有用的功能。![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - 高级文本编辑器。
 - [Visual Studio Code](https://code.visualstudio.com/) - 用于构建和调试现代Web和云应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
 
@@ -196,6 +208,11 @@
 - [Mozy](https://mozy.com/product/download)
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - 能够同步超过100,000个文件，并支持含有特殊字符的文件名和长度超过256个字符的路径。
 
+### 备份
+
+- [Arq](https://www.arqbackup.com/) - 备份文件到你自己的云账户中（Amazon Cloud Drive，AWS，Dropbox，Google Drive，Google Cloud Storage，OneDrive，和SFTP）。
+- [Bvckup 2](https://bvckup2.com/) - 轻量，多功能的数据复制应用。
+- [Duplicati](https://www.duplicati.com/) - 免费的备份应用，将加密备份存储到线上服务器，可用于Windows，macOS和Linux。[![Open-Source Software][OSS Icon]](https://github.com/duplicati/duplicati) ![Freeware][Freeware Icon]
 
 ### 生产力工具
 
@@ -216,6 +233,7 @@
 - [WordWeb](http://wordweb.info/) - Windows 上很好的英文词典。 ![Freeware][Freeware Icon]
 - [Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
 - [KatMouse](http://www.ehiti.de/katmouse/) - 用于在 Windows 上提供全局滚动效果：滚动时不需要先激活/点击窗口（类似 macOS 和 Linux 上的效果）。 ![Freeware][Freeware Icon]
+- [Keypirinha](http://keypirinha.com/) - 一个提供给Windows键盘党的快速启动器。你可以把它当成 *Launchy* 的替代品和 *Alfred* 的表兄弟。![Freeware][Freeware Icon]
 
 ### 终端
 
