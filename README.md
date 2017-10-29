@@ -201,11 +201,18 @@
 
 ### IDEs
 
+- [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android based on the IntelliJ platform. [![Open-Source Software][OSS Icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][Freeware Icon]
+- [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development that natively supports Objective-C, Swift, C and C++.
+- [CLion](https://www.jetbrains.com/clion/) - Smart cross-platform IDE for C/C++ that uses CMake as a build system.
 - [Eclipse](https://eclipse.org/downloads/) - A powerful IDE. [![Open-Source Software][OSS Icon]](https://git.eclipse.org/c/) ![Freeware][Freeware Icon]
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE.
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE designed to maximize developer productivity.
 - [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
+- [PhpStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart PHP IDE with major frameworks support.
+- [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for professional developers with free community edition. [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community/tree/master/python) ![Freeware][Freeware Icon]
+- [Rider](https://www.jetbrains.com/rider/) - A cross-platform .NET/Mono IDE.
+- [RubyMine](https://www.jetbrains.com/ruby/) - An intelligent Ruby IDE that supports many modern frameworks.
 - [Visual Studio](https://www.visualstudio.com/vs/) - Microsofts official IDE. Supports a multitude of languages via plugins.
-- [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based off IntelliJ's IDEA IDE. [![Open-Source Software][OSS Icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][Freeware Icon]
+- [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem.
 
 ### Online Storage
 
