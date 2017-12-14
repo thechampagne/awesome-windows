@@ -34,12 +34,12 @@
   - [视频](#视频)
   - [安全](#安全)
 - [配置与安装](#配置与安装)
-    - [Windows 10　设置](#Windows10设置)
-    - [Windows 8.1 设置](#Windows8设置)
+    - [Windows 10　设置](#Windows-10-设置)
+    - [Windows 8 设置](#Windows-8-设置)
 - [杂项](#杂项)
 - [论坛](#论坛)
     - [Windows](#windows)
-    - [IRC 频道](#IRC频道)
+    - [IRC 频道](#IRC-频道)
     - [Reddit](#reddit)
 - [贡献](#贡献)
 
@@ -135,8 +135,8 @@
 - [Xampp](https://www.apachefriends.org/index.html) - Apache 网站开发环境。 ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  一个强大的命令行shell。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 - ~~[Alacritty](https://github.com/jwilm/alacritty) - 跨平台，使用GPU加速的终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]~~, not available for Windows yet.
-- ~~[Visual Studio Code](https://code.visualstudio.com/) - 轻量的源码编辑器。~~ 见**[文本编辑器](#文本编辑)**
-- ~~[Visual Studio](https://www.visualstudio.com/) - Microsoft提供的Windows上最强开发工具。~~ 见**[集成开发环境](#集成开发环境)**
+- ~~[Visual Studio Code](https://code.visualstudio.com/) - 轻量的源码编辑器。~~ ***见[文本编辑器](#文本编辑器)***
+- ~~[Visual Studio](https://www.visualstudio.com/) - Microsoft提供的Windows上最强开发工具。~~ ***见[集成开发环境](#集成开发环境)***
 
 ### 文档
 - [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice 提供一套完整的办公套件，拥有文字编辑器，电子表格程序和演示程序 - 均与 office 对应程序相兼容。  ![Freeware][Freeware Icon]
@@ -285,7 +285,7 @@
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - 更改 Windows 10 登录屏幕背景。 [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 - [Windows终端命令的A-Z](http://ss64.com/nt/)
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - 一款屏幕缩放和标记工具，用于技术展示。它静默运行于托盘处，通过用户定义的热键触发放大屏幕区域，放大时拖动及在放大图像上标注。
-- ~~[Ccleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好。~~ 见**[安全](#安全)**
+- ~~[Ccleaner](https://www.piriform.com/ccleaner/download) - 系统清洁实用程序， 易于理解，对新手友好。~~ ***见[安全](#安全)***
 
 ### 视频
 - [HandBrake](http://handbrake.fr/) - 一个拥有良好界面的高性能视频编码和转换工具。 [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
@@ -337,7 +337,7 @@
 
 ## 杂项
 
-* [显示隐藏文件Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
+* [显示隐藏文件Show hidden files](https://support.microsoft.com/en-us/help/14201/windows-show-hidden-files) ~~[旧链](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)~~已失效
 * [快捷键列表list of Shortcut keys](http://imgur.com/a/TIXvm)
 
 ## 软件列表
