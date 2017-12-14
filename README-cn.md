@@ -367,6 +367,14 @@
 * [显示隐藏文件Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
 * [快捷键列表list of Shortcut keys](http://imgur.com/a/TIXvm)
 
+## 软件列表
+* [Windows最佳应用软件Best Windows Apps](https://github.com/stackia/best-windows-apps) - 来自Github的stackia推荐的软件。
+* [小众软件 - 我最喜爱的软件Windows版](http://love.appinn.com/) - 小众软件网站的推荐，共17类软件。
+* [Windows绝赞应用 Windows Apps That Amaze Us](https://www.gitbook.com/book/amazing-apps/windows-apps-that-amaze-us/details/zh-CN) 一些较好的WIndows软件，附有黑名单可参考。
+
+## 国产（中国）软件
+TODO
+
 ## 论坛
 
 #### Windows
