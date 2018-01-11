@@ -221,9 +221,9 @@
 
 ### 生产力工具
 - [AutoHotkey](https://autohotkey.com/) - Windows平台的终极自动化脚本语言。 [![Open-Source Software][OSS Icon]](https://autohotkey.com/) ![Freeware][Freeware Icon]
-- [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - Windows命令行程序运行监控系统托盘管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/rexdf/CommandTrayHost) ![Freeware][Freeware Icon]
 - [Chocolatey](https://chocolatey.org/) - Windows的包管理器。
 - [Cold Turkey](https://getcoldturkey.com) - 屏蔽能分散你注意力的网站。（屏蔽期间你甚至无法卸载它。）
+- [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - Windows命令行程序运行监控系统托盘管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/rexdf/CommandTrayHost) ![Freeware][Freeware Icon]
 - [Ditto](http://ditto-cp.sourceforge.net/) - 剪贴板管理器。
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) - 应用实际之间快速切换。
 - [Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具， 通过名称搜索。
