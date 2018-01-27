@@ -152,7 +152,7 @@
 - [OnlyOffice](https://www.onlyoffice.com/) - The most complete and feature-rich office and productivity suite ![Freeware][Freeware Icon]
 - [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more. [![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html) ![Freeware][Freeware Icon]
 - [NitroPDF](https://www.gonitro.com/pdf-reader) - The best PDF Reader you'll ever get.
-- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. ![Freeware][Freeware Icon]
+- [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. [![Open-Source Software][OSS Icon]](https://github.com/sumatrapdfreader/sumatrapdf) ![Freeware][Freeware Icon]
 - [WPS Office](https://www.wps.com/office-free) - The perfect free office software ![Freeware][Freeware Icon]
 
 ### E-Book Utilities
@@ -196,7 +196,7 @@
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
 - [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
-- [Neovim](https://neovim.io/) - literally the future of vim
+- [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 - [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][OSS Icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
 - [Notepad2](http://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
