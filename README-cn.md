@@ -259,6 +259,7 @@
 - [Carnac](http://code52.org/carnac/) - 在任何屏幕录制期间录制按键的最简单方法。
 - [CleanMyPC](http://macpaw.com/cleanmypc) - 快速的电脑清洁软件。
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - 免费且功能齐全的 CPU 监控工具。 ![Freeware][Freeware Icon]
+- [Ext2Fsd](http://www.ext2fsd.com/) - 轻松在Windows系统下挂载EXT3/4文件系统。[![Open-Source Software][OSS Icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][Freeware Icon]
 - [Far](http://www.farmanager.com/index.php?l=en) -文件和归档管理器。克隆自诺顿指挥官。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
 - [Fraps](http://www.fraps.com/)- 视频游戏屏幕录制机，可用于所有使用 DirectX 或 OpenGL 技术的游戏。
 - [FreeFileSync](http://www.freefilesync.org/) - 文件和文件夹的简单备份解决方案，它支持源和目标之间的镜像/双向同步/更新。
