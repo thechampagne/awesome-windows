@@ -141,6 +141,7 @@
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
 - [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client.
 - [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][Freeware Icon]
+- [WMI Explorer](https://github.com/vinaypamnani/wmie2) - Provides the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view. [![Open-Source Software][OSS Icon]](https://github.com/vinaypamnani/wmie2/)
 - [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment. ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
 
