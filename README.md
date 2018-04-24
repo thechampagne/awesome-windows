@@ -188,9 +188,10 @@
 
 - [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
 - [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][OSS Icon]](http://www.gimp.org/source/) ![Freeware][Freeware Icon]
-- [Paint.net](http://www.getpaint.net/index.html) - how can you live without paint.net? ![Freeware][Freeware Icon]
 - [Inkscape](https://inkscape.org/en/) - Free vector-based graphic design software.
 - [Krita](https://krita.org/) - Free drawing software with a bunch of cool features.
+- [MapTiler](https://www.maptiler.com/) - MapTiler generates zoomable raster maps from images in user-defined coordinate system. ![Freeware][Freeware Icon]
+- [Paint.net](http://www.getpaint.net/index.html) - how can you live without paint.net? ![Freeware][Freeware Icon]
 
 ### Text Editors
 
