@@ -50,6 +50,7 @@
 
 - [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][Freeware Icon]
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
+- [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more. ![Freeware][Freeware Icon]
 - [CDex](http://www.cdex.fr/) - CD Ripper (French site, English program). ![Freeware][Freeware Icon]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. ![Freeware][Freeware Icon]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools. ![Freeware][Freeware Icon]
