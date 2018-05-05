@@ -60,7 +60,7 @@
 - [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [Musicbee](http://getmusicbee.com/) - Like iTunes but better than iTunes.
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
-- [VLC](http://www.videolan.org/vlc/index.html) - Free media player, works pretty well.
+- [VLC](http://www.videolan.org/vlc/index.html) - Free media player, works pretty well. [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc) ![Freeware][Freeware Icon]
 - [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features.
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
 - [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][OSS Icon]](https://github.com/xbmc) ![Freeware][Freeware Icon]
