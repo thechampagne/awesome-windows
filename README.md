@@ -145,7 +145,7 @@
 - [WMI Explorer](https://github.com/vinaypamnani/wmie2/) - Provides the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view. [![Open-Source Software][OSS Icon]](https://github.com/vinaypamnani/wmie2/)
 - [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment. ![Freeware][Freeware Icon]
 - [Xftp 5](https://www.netsarang.com/products/xfp_overview.html) - Flexible and lightweight SFTP/FTP client. ![Freeware][Freeware Icon]
-- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [Zsh](http://www.zsh.org/) -  A powerful command line shell. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) ![Freeware][Freeware Icon]
 
 ### Documents
 
