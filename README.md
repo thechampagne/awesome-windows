@@ -295,6 +295,7 @@
 - [GPU-Z](http://www.techpowerup.com/gpuz/) - A free all-in-one GPU monitoring tool. ![Freeware][Freeware Icon]
 - [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][OSS Icon]](https://github.com/xroche/httrack/tree/master)
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
+- [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows. 
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
