@@ -214,7 +214,7 @@
 - [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development that natively supports Objective-C, Swift, C and C++.
 - [CLion](https://www.jetbrains.com/clion/) - Smart cross-platform IDE for C/C++ that uses CMake as a build system.
 - [Eclipse](https://eclipse.org/downloads/) - A powerful IDE. [![Open-Source Software][OSS Icon]](https://git.eclipse.org/c/) ![Freeware][Freeware Icon]
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE designed to maximize developer productivity.
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE with free community edition. [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) ![Freeware][Freeware Icon]
 - [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart PHP IDE with major frameworks support.
 - [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for professional developers with free community edition. [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community/tree/master/python) ![Freeware][Freeware Icon]
