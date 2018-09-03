@@ -286,6 +286,7 @@
 ### Utilities
 
 - [A-Z of Windows Terminal Commands](http://ss64.com/nt/)
+- [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][Freeware Icon]
