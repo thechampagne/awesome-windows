@@ -273,6 +273,7 @@
 - [qBittorrent](https://qbittorrent.org/) - P2P bittorrent下载软件.
 - [rimraf](https://www.npmjs.com/package/rimraf) - node中的深度删除模块。 用于删除具有很长路径的文件和文件夹。
 - [Rufus](https://rufus.akeo.ie/) - 创建USB启动盘。
+- [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - 此脚本将帮助您将您喜欢的程序或自制脚本/文件夹添加到启动。 [![Open-Source Software][OSS Icon]]
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - 安全删除文件或清空闲置空间的命令行库。
 - [ShareX](https://getsharex.com/)- 让您使用单个键获取任何选定区域的截图或屏幕录像。 [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - 一款图形化程序，可根据文件和目录的大小将其显示为不同大小的块。
