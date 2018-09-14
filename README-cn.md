@@ -176,6 +176,7 @@
 - [Inkscape](https://inkscape.org/en/) - 免费的矢量图形设计软件。
 - [Krita](https://krita.org/) - 有一堆很酷的功能的免费绘图软件。
 - [Paint.net](http://www.getpaint.net/index.html) - 简易版本的Photoshop。 ![Freeware][Freeware Icon]
+- [Snipaste](https://zh.snipaste.com/) 一款高效率功能全面的截图软件  [![Open-Source Software][OSS Icon]]
 
 ### 文本编辑器
 - [Atom](https://atom.io/) - 面向21世纪的极客文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
@@ -237,8 +238,9 @@
 - [Simplenote](https://simplenote.com/) - 基于云同步的简单跨平台笔记应用程序。 ![Freeware][Freeware Icon]
 - [Total Commander](https://www.ghisler.com/) - Windows 上最佳的文件管理器。
 - [WordWeb](http://wordweb.info/) - Windows 上很好的英文词典。 ![Freeware][Freeware Icon]
-- [Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]
+- [Wox](http://www.getwox.com/) - Windows 上效果优异的快捷启动应用。 [![Open-Source Software][OSS Icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][Freeware Icon]  
 [xoring](https://www.xoring.com/) 一款基于番茄工作法的时间管理工具
+
 
 ### 终端
 - [Babun](http://babun.github.io/) - 基于 Cygwin，用于替代 Windows shell。
