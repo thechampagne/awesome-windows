@@ -176,7 +176,7 @@
 - [Inkscape](https://inkscape.org/en/) - 免费的矢量图形设计软件。
 - [Krita](https://krita.org/) - 有一堆很酷的功能的免费绘图软件。
 - [Paint.net](http://www.getpaint.net/index.html) - 简易版本的Photoshop。 ![Freeware][Freeware Icon]
-- [Snipaste](https://zh.snipaste.com/) 一款高效率功能全面的截图软件  [![Open-Source Software][OSS Icon]]
+- [Snipaste](https://zh.snipaste.com/) 一款高效率功能全面的截图软件  ![Open-Source Software][OSS Icon]
 
 ### 文本编辑器
 - [Atom](https://atom.io/) - 面向21世纪的极客文本编辑器。 [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon]
