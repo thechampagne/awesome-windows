@@ -311,6 +311,7 @@
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -  A command line utility that can securely delete a file, or clean the slack space.
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
 - [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
+- [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][Freeware Icon]
 - [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
