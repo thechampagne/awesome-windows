@@ -122,6 +122,7 @@
 - [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
 - [Mamp](https://www.mamp.info/en/) - Local server environment. ![Freeware][Freeware Icon]
 - [Meld](http://meldmerge.org/) - A visual diff and merge tool. [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/meld/) ![Freeware][Freeware Icon]
+- [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][OSS Icon]](https://github.com/M2Team/NSudo/)
 - [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly). ![Freeware][Freeware Icon]
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 - [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
