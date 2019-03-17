@@ -166,6 +166,7 @@
 - [Itch.io](https://itch.io/app/) - 安装，更新，并畅玩独立游戏 [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) ![Freeware][Freeware Icon]
 - [Origin](https://www.origin.com/en-in/store/) - 类似Steam 但属于 EA 公司。
 - [Steam](http://store.steampowered.com/) -  最大的视频游戏在线零售商。 桌面应用程序允许您管理您的游戏库，并在任何时间畅玩。 我想你早就知道了。
+- [Godot](https://github.com/godotengine/godot) - 开源游戏引擎。 入门简单且包含大量中文教程。
 - [Unity](https://unity3d.com/) - 免费游戏引擎。 入门简单且包含大量教程。
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - 另一个免费游戏引擎。 更容易入门且包含大量教程，但如果你基于此引擎制作的游戏盈利， 你需支付给 Unreal 5%的盈利作为使用费。
 - [Warsow](https://www.warsow.net/) - Windows上免费和快节奏的FPS游戏。 ![Freeware][Freeware Icon]
