@@ -127,6 +127,7 @@
 - [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
 - [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
 - [Postman](https://www.getpostman.com/postman) - REST client with intuitive user interface to send requests, save responses, add tests, and create workflows.
+- [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)- A sysinternal tool shows real-time file system, Registry, network and process/thread activity. ![Freeware][Freeware Icon]
 - [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) - A powerful task manager. ![Freeware][Freeware Icon]
 - [Process Hacker](http://processhacker.sourceforge.net/) - Excellent full blown task manager.
 - [RazorSQL](http://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
@@ -321,6 +322,7 @@
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 - [`winreg-cli`](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying Windows registry. ![[Open-Source Software][OSS Icon]](https://github.com/notlmn/winreg-cli) ![Freeware][Freeware Icon]
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
+- [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Windows 10 utility to easily capture and edit selected area in screen. 
 
 
 ### Video
