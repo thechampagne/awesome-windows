@@ -117,7 +117,7 @@
 - [Git Extensions](https://gitextensions.github.io/) - A powerful and easy to use UI for Git. [![Open-Source Software][OSS Icon]](https://github.com/gitextensions/gitextensions) ![Freeware][Freeware Icon]
 - [GitHub Desktop](https://desktop.github.com/) - GitHub Desktop is an open source Electron-based GitHub app. [![Open-Source Software][OSS Icon]](https://github.com/desktop/desktop) ![Freeware][Freeware Icon]
 - [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][Freeware Icon]
-- [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][Freeware Icon]
+- [I'm Only Resting](https://github.com/SwensenSoftware/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][Freeware Icon]
 - [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
 - [Mamp](https://www.mamp.info/en/) - Local server environment. ![Freeware][Freeware Icon]
