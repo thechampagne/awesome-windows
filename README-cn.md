@@ -286,6 +286,7 @@
 - [WinDirStat](https://windirstat.info/) - 磁盘使用情况查看器和清洁器。
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - 更改 Windows 10 登录屏幕背景。 [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 - [Windows终端命令的A-Z](http://ss64.com/nt/)
+- [Yacy](https://github.com/yacy/yacy_search_server) - 开源合作式搜索引擎，具有搜索前端界面，爬虫后台，索引管理器等一套搜索引擎所需的组件。[![Open-Source Software][OSS Icon]](https://github.com/yacy/yacy_search_server)
 - [Zotero](https://www.zotero.org/) - 类似EndNote的开源文献管理器。[![Open-Source Software][OSS Icon]](https://github.com/zotero/zotero)
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - 分布式开源网络平台，具有博客，微博，论坛等功能。[![Open-Source Software][OSS Icon]](https://github.com/HelloZeroNet/ZeroNet)
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - 一款屏幕缩放和标记工具，用于技术展示。它静默运行于托盘处，通过用户定义的热键触发放大屏幕区域，放大时拖动及在放大图像上标注。
