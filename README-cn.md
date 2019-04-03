@@ -47,7 +47,7 @@
 ## 应用程序
 
 ### 音频
-- [安装IMP](http://www.aimp.ru/) - 32位音频处理和多格式播放。 ![Freeware][Freeware Icon]
+- [AIMP3](http://www.aimp.ru/) - 32位音频处理和多格式播放。 ![Freeware][Freeware Icon]
 - [Audacity](http://audacityteam.org/) - 免费，开源，跨平台软件，用于录制和编辑音频。 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [CDex](http://www.cdex.fr/) - CD 音轨抓取工具 (法语站点，英文软件)。 ![Freeware][Freeware Icon]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/) - 一款音频播放器，致力于为管理和播放音乐提供尽可能简单且优美的操作体验。 ![Freeware][Freeware Icon]
