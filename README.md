@@ -182,7 +182,7 @@
 - [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
 - [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][Freeware Icon]
 - [Freeciv](http://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization.  [![Open-Source Software][OSS Icon]](https://github.com/freeciv/) ![Freeware][Freeware Icon]
-- [GOG Galaxy](https://www.gog.com/galaxy) - Steam-like DRM-free game platform.
+- [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
 - [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
 - [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials.
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
