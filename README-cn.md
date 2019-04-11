@@ -166,7 +166,7 @@
 - [Itch.io](https://itch.io/app/) - 安装，更新，并畅玩独立游戏 [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) ![Freeware][Freeware Icon]
 - [Origin](https://www.origin.com/en-in/store/) - 类似Steam 但属于 EA 公司。
 - [Steam](http://store.steampowered.com/) -  最大的视频游戏在线零售商。 桌面应用程序允许您管理您的游戏库，并在任何时间畅玩。 我想你早就知道了。
-- [Godot](https://github.com/godotengine/godot) - 开源游戏引擎。 入门简单且包含大量中文教程。
+- [Godot](https://github.com/godotengine/godot) - 开源游戏引擎。 入门简单且包含大量中文教程。[![Open-Source Software][OSS Icon]](https://github.com/godotengine/godot)
 - [Unity](https://unity3d.com/) - 免费游戏引擎。 入门简单且包含大量教程。
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - 另一个免费游戏引擎。 更容易入门且包含大量教程，但如果你基于此引擎制作的游戏盈利， 你需支付给 Unreal 5%的盈利作为使用费。
 - [Warsow](https://www.warsow.net/) - Windows上免费和快节奏的FPS游戏。 ![Freeware][Freeware Icon]
@@ -286,6 +286,9 @@
 - [WinDirStat](https://windirstat.info/) - 磁盘使用情况查看器和清洁器。
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - 更改 Windows 10 登录屏幕背景。 [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 - [Windows终端命令的A-Z](http://ss64.com/nt/)
+- [Yacy](https://github.com/yacy/yacy_search_server) - 开源合作式搜索引擎，具有搜索前端界面，爬虫后台，索引管理器等一套搜索引擎所需的组件。[![Open-Source Software][OSS Icon]](https://github.com/yacy/yacy_search_server)
+- [Zotero](https://www.zotero.org/) - 类似EndNote的开源文献管理器。[![Open-Source Software][OSS Icon]](https://github.com/zotero/zotero)
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - 分布式开源网络平台，具有博客，微博，论坛等功能。[![Open-Source Software][OSS Icon]](https://github.com/HelloZeroNet/ZeroNet)
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - 一款屏幕缩放和标记工具，用于技术展示。它静默运行于托盘处，通过用户定义的热键触发放大屏幕区域，放大时拖动及在放大图像上标注。
 
 ### 视频
