@@ -211,6 +211,7 @@
 - [Hubic](https://hubic.com/en/) - 为 Windows, Linux, MacOsx, iOs & Android 平台设计的云存储。
 - [Mozy](https://mozy.com/product/download)
 - [OneDrive](https://onedrive.live.com/about/en-us/download/) - 为Windows用户提供最佳云存储解决方案，原先叫SkyDrive。
+- [百度网盘](https://pan.baidu.com/) - 中国垄断在线存储
 
 ### 备份
 - [Arq](https://www.arqbackup.com/) - 备份文件到你自己的云账户中（Amazon Cloud Drive，AWS，Dropbox，Google Drive，Google Cloud Storage，OneDrive，和SFTP）。
