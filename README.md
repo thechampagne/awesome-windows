@@ -185,6 +185,7 @@
 - [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][OSS Icon]](https://github.com/0ad/0ad) ![Freeware][Freeware Icon]
 - [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][Freeware Icon]
 - [Freeciv](http://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization.  [![Open-Source Software][OSS Icon]](https://github.com/freeciv/) ![Freeware][Freeware Icon]
+- [Godot Engine](https://godotengine.org/) - Free and open source game engine. Easy to get started and flexible for intermediate users. [![Open-Source Software][OSS Icon]](https://github.com/godotengine/godot) ![Freeware][Freeware Icon]
 - [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
 - [Itch.io](https://itch.io/app/) - Install, update and play indie games. [![Open-Source Software][OSS Icon]](https://github.com/itchio/itch) ![Freeware][Freeware Icon]
 - [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
