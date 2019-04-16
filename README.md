@@ -415,6 +415,9 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 
 **[⬆ back to top](#applications)**
 
+[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
+[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+
 ## Backers
 
 Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/awesome-windows#backer)
@@ -429,5 +432,4 @@ Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
-[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
-[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+
