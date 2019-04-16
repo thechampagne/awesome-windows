@@ -133,7 +133,6 @@
 - [Wireshark](https://www.wireshark.org/) - 一个网络协议分析工具。 [![Open-Source Software][OSS Icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][Freeware Icon]
 - [Xampp](https://www.apachefriends.org/index.html) - Apache 网站开发环境。 ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/) -  一个强大的命令行shell。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
-- ~~[Alacritty](https://github.com/jwilm/alacritty) - 跨平台，使用GPU加速的终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]~~, not available for Windows yet.
 
 ### 文档
 - [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice 提供一套完整的办公套件，拥有文字编辑器，电子表格程序和演示程序 - 均与 office 对应程序相兼容。  ![Freeware][Freeware Icon]
@@ -257,6 +256,8 @@
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - 多标签 PuTTY。
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH 和 telnet 客户端。
 - [Terminus](https://eugeny.github.io/terminus/) - 基于Web技术的现代高度可配置的终端应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
+- [Alacritty](https://github.com/jwilm/alacritty) - 跨平台，使用GPU加速的终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
+
 
 ### 实用程序
 - [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - 通过此脚本，您可以在右键单击时将喜欢的“文件夹”添加到“发送到”选项。 [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
