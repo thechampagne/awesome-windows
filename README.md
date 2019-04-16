@@ -419,7 +419,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 
 Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/awesome-mac#backer)
 
-<a href="https://opencollective.com/awesome-mac#backers" target="_blank"><img src="https://opencollective.com/awesome-mac/backers.svg?width=890"></a>
+<a href="https://opencollective.com/awesome-windows#backers" target="_blank"><img src="https://opencollective.com/awesome-windows/backers.svg?width=890"></a>
 
 
 ## License
