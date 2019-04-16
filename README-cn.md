@@ -302,6 +302,7 @@
 - [VLC](http://www.videolan.org/vlc/index.html) - 多媒体播放器和框架，用于播放DVD，音频CD，VCD和各种流协议。
 
 ### 安全
+- [360](http://www.360.cn/download/)* - 360全家桶，让你的电脑飞起来
 - *[AIDA64](https://www.aida64.com/)* - 查看系统信息，支持手机。
 - *[CCleaner](https://www.piriform.com/ccleaner)* - 用于 PC 优化和清洁。
 - *[CrystalDiskMark](https://crystalmark.info/?lang=en)* - 硬盘信息，日文版和英文版。
