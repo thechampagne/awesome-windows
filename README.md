@@ -278,6 +278,7 @@
 
 ### Terminal
 
+- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 - [Babun](http://babun.github.io) - Alternative Windows shell based on Cygwin. [![Open-Source Software][OSS Icon]](https://github.com/babun/babun) ![Freeware][Freeware Icon]
 - [Cmder](https://cmder.net) - Console emulator package with clink shell. [![Open-Source Software][OSS Icon]](https://github.com/cmderdev/cmder) ![Freeware][Freeware Icon]
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - Set custom color schemes for the Windows Console with support for iTerm color schemes.
@@ -290,7 +291,6 @@
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
-- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 
 
 ### Utilities
@@ -314,10 +314,10 @@
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
 - [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
-- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][OSS Icon]](https://github.com/petrroll/PowerSwitcher)
+- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
 - [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
@@ -340,6 +340,7 @@
 
 ### Video
 
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video creation software for editing, visual effects, color correction, and audio post production. ![Freeware][Freeware Icon]
 - [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 - [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
