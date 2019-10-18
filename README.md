@@ -236,7 +236,8 @@
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
 - [Dropbox](https://www.dropbox.com/install) -Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
 - [Google Drive](https://www.google.com/drive/download/) - Cloud storage solution deeply integrated in the Google ecosystem.
-- [Hubic](https://hubic.com/en/) - Cloud storage for Windows, Linux, MacOsx, iOs & Android
+- [pCloud](https://www.pcloud.com) - A swiss based privacy first cloud provider. Also offers one time payment lifetime plans.
+- [Sync](https://www.sync.com/) - Encrypted file storage that stores all files in canadian datacenters
 - [Mega](https://mega.nz/) - Encrypted file storage.
 - [Mozy](https://mozy.com/product/download)
 - [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
