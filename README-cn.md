@@ -261,6 +261,7 @@
 
 ### 实用程序
 - [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - 通过此脚本，您可以在右键单击时将喜欢的“文件夹”添加到“发送到”选项。 [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
+- [Bandicam](https://www.bandicam.com) - 录制软件可以同时轻松录制桌面和3D应用程序。
 - [Carnac](http://code52.org/carnac/) - 在任何屏幕录制期间录制按键的最简单方法。
 - [CleanMyPC](http://macpaw.com/cleanmypc) - 快速的电脑清洁软件。
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - 免费且功能齐全的 CPU 监控工具。 ![Freeware][Freeware Icon]
