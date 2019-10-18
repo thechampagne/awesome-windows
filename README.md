@@ -56,7 +56,7 @@
 - [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features. ![Freeware][Freeware Icon]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools. ![Freeware][Freeware Icon]
 - [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][OSS Icon]](https://github.com/xbmc) ![Freeware][Freeware Icon]
-- [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [Musicbee](http://getmusicbee.com/) - Like iTunes but better than iTunes.
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][Freeware Icon]
@@ -246,7 +246,7 @@
 
 - [Arq](https://www.arqbackup.com/) - Backs up your files to your own cloud account (Amazon Cloud Drive, AWS, Dropbox, Google Drive, Google Cloud Storage, OneDrive, and SFTP).
 - [Bvckup 2](https://bvckup2.com/) - Light, versatile data replication software.
-- [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux.[![Open-Source Software][OSS Icon]](https://github.com/duplicati/duplicati) ![Freeware][Freeware Icon]
+- [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux. [![Open-Source Software][OSS Icon]](https://github.com/duplicati/duplicati) ![Freeware][Freeware Icon]
 
 ### Productivity
 
@@ -278,6 +278,7 @@
 
 ### Terminal
 
+- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 - [Babun](http://babun.github.io) - Alternative Windows shell based on Cygwin. [![Open-Source Software][OSS Icon]](https://github.com/babun/babun) ![Freeware][Freeware Icon]
 - [Cmder](https://cmder.net) - Console emulator package with clink shell. [![Open-Source Software][OSS Icon]](https://github.com/cmderdev/cmder) ![Freeware][Freeware Icon]
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - Set custom color schemes for the Windows Console with support for iTerm color schemes.
@@ -290,7 +291,6 @@
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
-- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 
 
 ### Utilities
@@ -302,7 +302,7 @@
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][Freeware Icon]
-- [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows.[![Open-Source Software][OSS Icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][Freeware Icon]
+- [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][OSS Icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][Freeware Icon]
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
 - [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
@@ -314,10 +314,10 @@
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
 - [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
-- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][OSS Icon]](https://github.com/petrroll/PowerSwitcher)
+- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
 - [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
@@ -340,12 +340,15 @@
 
 ### Video
 
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video creation software for editing, visual effects, color correction, and audio post production. ![Freeware][Freeware Icon]
 - [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 - [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
+- [Olive Video Editor](https://www.olivevideoeditor.org/) - Open source cross-platform non-linear video editor. [![Open-Source Software][OSS Icon]](https://github.com/olive-editor/olive) ![Freeware][Freeware Icon]
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS)
 - [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
 - [ScreenToGif](http://www.screentogif.com/) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video. [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
+- [Shotcut](https://www.shotcut.org/download/) - Open source cross-platform video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that can save different preferences for any single video. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 
