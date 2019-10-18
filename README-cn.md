@@ -319,6 +319,7 @@
 - [Cryptomator](https://cryptomator.org/) - 免费的客户端加密程序，用于加密你储存在云端的文件。 [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
 - [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - 使Windows 10更加私密和安全。
 - [ENCRYPTO](http://macpaw.com/encrypto) - 优雅地加密你的文件。 ![Freeware][Freeware Icon]
+- [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt是一款适用于Windows，Mac OSX和Linux的免费开源磁盘加密软件。![Open-Source Software][OSS Icon]
 - [GlassWire](https://www.glasswire.com/) - 网络安全监控工具和分析器，可视化您的网络活动。
 - [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - Windows 上用于配置加密协议，密码，散列方式和密钥交换的工具集（例如为远程桌面提供 TLS/AES/SHA 加密。）
 - [KeePass](http://www.keepass.info) - 免费、开源、易用的密码管理软件. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keepass/) ![Freeware][Freeware Icon]
