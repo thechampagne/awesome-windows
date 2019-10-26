@@ -326,6 +326,7 @@
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][OSS Icon]](https://github.com/petrroll/PowerSwitcher)
 - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
 - [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
+- [Retroshare](https://retroshare.cc/) - A platform for secure communications and file sharing between friends. [![Open-Source Software][OSS Icon]](https://github.com/RetroShare/RetroShare) 
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -  A command line utility that can securely delete a file, or clean the slack space.
@@ -342,6 +343,8 @@
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 - [`winreg-cli`](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying Windows registry. ![[Open-Source Software][OSS Icon]](https://github.com/notlmn/winreg-cli) ![Freeware][Freeware Icon]
 - [WizTree](https://wiztree.en.lo4d.com/) - Excellent, small utility application allows users to quickly find large files on a hard drive. ![Freeware][Freeware Icon]
+- [Yacy](https://github.com/yacy/yacy_search_server) - A general search engine by corporations of people, including the search web page, general crawlers, indexing, and ranking functions.[![Open-Source Software][OSS Icon]](https://github.com/yacy/yacy_search_server)
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - A decentralized web. [![Open-Source Software][OSS Icon]](https://github.com/HelloZeroNet/ZeroNet)
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
 
