@@ -7,6 +7,10 @@
 > *This Awesome Repository is highly inspired from ichait's [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
 > *Special thanks to [egeerardyn](https://github.com/egeerardyn).*
 
+> *Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
+
+<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
+
 > *Items marked with ![Open-Source Software][OSS Icon] are open-source software. Items marked with ![Freeware][Freeware Icon] are free.*
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
@@ -38,7 +42,7 @@
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
     - [Windows](#windows)
-    - [IRC channels](#irc-channels)
+    - [IRC channels](#irc-channels) 
     - [Reddit](#reddit)
 - [Contribute](#contribute)
 
@@ -428,9 +432,11 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 
 ## Backers
 
-Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/awesome-windows#backer)
+Thank you to all our supporters! 🙏
 
-<a href="https://opencollective.com/awesome-windows#backers" target="_blank"><img src="https://opencollective.com/awesome-windows/backers.svg?width=890"></a>
+> *Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
+
+<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
 
 
 ## License
