@@ -279,6 +279,7 @@
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - 为资源管理器建立符号链接。
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Windows 10上快速切换电源计划。[![Open-Source Software][OSS Icon]](https://github.com/petrroll/PowerSwitcher)
 - [qBittorrent](https://qbittorrent.org/) - P2P bittorrent下载软件.
+- [Retroshare](https://retroshare.cc/) - 开源的好友间通讯及文件共享平台. [![Open-Source Software][OSS Icon]](https://github.com/RetroShare/RetroShare) 
 - [rimraf](https://www.npmjs.com/package/rimraf) - node中的深度删除模块。 用于删除具有很长路径的文件和文件夹。
 - [Rufus](https://rufus.akeo.ie/) - 创建USB启动盘。
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - 此脚本将帮助您将您喜欢的程序或自制脚本/文件夹添加到启动。 [![Open-Source Software][OSS Icon]]
@@ -305,7 +306,7 @@
 - [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。
 - [ScreenToGif](http://www.screentogif.com/) - 它允许你录制屏幕的一部分区域并保存为 gif 或视频。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - 多媒体播放器，可针对不同视频保存不同的配置。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
-- [VLC](http://www.videolan.org/vlc/index.html) - 多媒体播放器和框架，用于播放DVD，音频CD，VCD和各种流协议。
+- [VLC](http://www.videolan.org/vlc/index.html) - 多媒体播放器和框架，用于播放DVD，音频CD，VCD和各种流协议。 [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc)
 
 ### 安全
 - [360](http://www.360.cn/download/)* - 360全家桶，让你的电脑飞起来
