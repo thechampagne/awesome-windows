@@ -146,7 +146,7 @@
 - [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
 - [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A small fast tool for browsing through logs [![Open-Source Software][OSS Icon]](https://github.com/RolandPheasant/TailBlazer) ![Freeware][Freeware Icon]
 - [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][OSS Icon]](https://github.com/tortoisegit/tortoisegit/) ![Freeware][Freeware Icon]
-- [TortoiseSVN](https://tortoisesvn.net/) - Subversion client with full shell integration. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/tortoisesvn/) ![Freeware][Freeware Icon]
+- [Tower](https://www.git-tower.com/windows) - Tower - the most powerful Git client for Mac and Windows.
 - [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant)
 - [Velocity](http://velocity.silverlakesoftware.com/) - Offline API Documentation Tool. (like [Dash](https://kapeli.com/dash) for macOS)
 - [Visual Studio Code](https://code.visualstudio.com/) - Lightweight Source Code Editor.
