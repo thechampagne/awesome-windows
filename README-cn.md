@@ -258,6 +258,7 @@
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH 和 telnet 客户端。
 - [Terminus](https://eugeny.github.io/terminus/) - 基于Web技术的现代高度可配置的终端应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 - [Alacritty](https://github.com/jwilm/alacritty) - 跨平台，使用GPU加速的终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
+- [XShell](https://www.netsarang.com/zh/xshell/) - 业界最强大的SSH客户机，同时还有XFtp，分商业版本和个人版本，安装时选择。 [![Freeware][Freeware Icon]
 
 
 ### 实用程序
