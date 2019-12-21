@@ -255,6 +255,7 @@
 
 ### Productivity
 
+* [Aperture Control](https://github.com/Lieturd/aperture-control) - Windows environment automation tool with a number of [premade recipes](https://github.com/Lieturd/aperture-control-recipes) and [examples](https://github.com/Lieturd/aperture-control-example) available.  [![Open-Source Software][OSS Icon]](https://github.com/Lieturd/aperture-control) ![Freeware][Freeware Icon]
 - [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][OSS Icon]](https://autohotkey.com/) ![Freeware][Freeware Icon]
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
 - [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
