@@ -297,6 +297,8 @@
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
+- [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Microsoft's official new terminal for Windows. [![Open-Source Software][OSS Icon]](https://github.com/microsoft/terminal) ![Freeware][Freeware Icon]
+
 
 
 ### Utilities
