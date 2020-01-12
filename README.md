@@ -311,6 +311,7 @@
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][Freeware Icon]
 - [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][OSS Icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][Freeware Icon]
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
+- [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - A lossless file size optimizer supporting a wide array of formats.
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
 - [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
 - [fselect](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL-like queries.
@@ -337,6 +338,7 @@
 - [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][Freeware Icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
+-[ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows. 
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 - [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
