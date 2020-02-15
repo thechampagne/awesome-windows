@@ -223,7 +223,7 @@
 - [Cold Turkey](https://getcoldturkey.com) - 屏蔽能分散你注意力的网站。（屏蔽期间你甚至无法卸载它。）
 - [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - Windows命令行程序运行监控系统托盘管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/rexdf/CommandTrayHost) ![Freeware][Freeware Icon]
 - [Ditto](http://ditto-cp.sourceforge.net/) - 剪贴板管理器。
-- [Easy Window Switcher](https://neosmart.net/EasySwitch/) - 应用实际之间快速切换。
+- [Easy Window Switcher](https://neosmart.net/EasySwitch/) - 应用程序之间快速切换。
 - [Everything](http://www.voidtools.com/) - 最快的文件/文件夹搜索工具， 通过名称搜索。
 - [f.lux](http://stereopsis.com/flux/) - 自动调整您的计算机屏幕亮度以适应当前环境亮度。 ![Freeware][Freeware Icon]
 - [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记应用程序。
