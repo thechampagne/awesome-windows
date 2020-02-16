@@ -47,20 +47,20 @@
 
 ### 音频
 - [AIMP3](http://www.aimp.ru/) - 32位音频处理和多格式播放。 ![Freeware][Freeware Icon]
-- [Audacity](http://audacityteam.org/) - 免费，开源，跨平台软件，用于录制和编辑音频。 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
+- [Audacity](http://audacityteam.org/) - 免费，开放的资源，用于录制和编辑音频的跨平台软件。 [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [CDex](http://www.cdex.fr/) - CD 音轨抓取工具 (法语站点，英文软件)。 ![Freeware][Freeware Icon]
-- [Dopamine](http://www.digimezzo.com/software/dopamine/) - 一款音频播放器，致力于为管理和播放音乐提供尽可能简单且优美的操作体验。 ![Freeware][Freeware Icon]
-- [Exact Audio Copy](http://www.exactaudiocopy.de/) - 将您的CD文件转换为几乎任意格式到您的电脑, 同时有一些优秀的特色功能。
-- [Foobar2000](http://www.foobar2000.org/) - Windows版的免费音频播放器，支持各种各样的音频格式，并且有很多很酷的特色功能。
+- [Dopamine](http://www.digimezzo.com/software/dopamine/) - 一款音频播放器，致力于为管理和播放音乐提供尽可能简单且美观的操作体验。 ![Freeware][Freeware Icon]
+- [Exact Audio Copy](http://www.exactaudiocopy.de/) - 可以将您的CD里的文件以任意格式转到您的电脑, 同时兼具一些优秀的特色功能。
+- [Foobar2000](http://www.foobar2000.org/) - Windows版的免费音频播放器，支持各种音频格式，并且有很多很酷的特色功能。
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - 包含 DirectShow 过滤器，VFW/ACM 编解码器和一些其他工具的集合包。![Freeware][Freeware Icon]
-- [Kodi](https://kodi.tv/) -免费和开源的家庭影院软件。
+- [Kodi](https://kodi.tv/) -免费且开放的家庭影院软件。
 - [Mixxx](http://mixxx.org/) - 免费的DJ软件，给你现场混音所需的一切功能，真正可替代Traktor。[![Open-Source Software][OSS Icon]](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [Musicbee](http://getmusicbee.com/) - 类似iTunes，但比iTunes更好用。
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard 是一款跨平台的音乐标签器，用于查看和改写元数据标签。 [![Open-Source Software][OSS Icon]](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) -音频/MIDI多轨音序器。[![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][Freeware Icon]
-- [Reaper](http://www.reaper.fm/download.php) - 功能深入却轻量的程序, 以$60的价格提供给个人，非营利机构或小型企业使用。
+- [Reaper](http://www.reaper.fm/download.php) - 精致小巧的程序, 以$60的价格提供给个人，非营利机构或小型企业使用。
 - [Resonic](https://resonic.at/) - 免费快速的音频播放器。
-- [VLC](http://www.videolan.org/vlc/index.html) - 免费媒体播放器，工作相当不错。
+- [VLC](http://www.videolan.org/vlc/index.html) - 免费的媒体播放器，非常实用。
 - [Winamp](http://www.winamp.com/) - 能播放MP3，MP2，WAV，VOCAls和MIDI文件的音乐播放器。![Freeware][Freeware Icon]
 
 ### 聊天客户端
