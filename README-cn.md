@@ -98,6 +98,7 @@
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - 强大的免费数据恢复软件, 主要设计用于帮助恢复丢失的分区和/或使非引导磁盘重新启动。
 
 ### 开发者工具
+- [uTools](https://u.tools/) - 一款基于插件的程序员效率工具，包含非常多的实用插件，如图床、UUID、密码、翻译、JSON格式化等。
 - [Addict](https://github.com/dthree/addict) - 为动态目录提供插入式 REST API　。
 - [DB Browser for SQLite](http://sqlitebrowser.org/) - 高质量, 可视化, 开源的数据库工具, 用于创建, 设计, 编辑 SQLite 的数据库文件。 [![Open-Source Software][OSS Icon]](http://sqlitebrowser.org/)
 - [Fiddler](http://www.telerik.com/fiddler) - web调试代理工具。
@@ -257,6 +258,7 @@
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH 和 telnet 客户端。
 - [Terminus](https://eugeny.github.io/terminus/) - 基于Web技术的现代高度可配置的终端应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 - [Alacritty](https://github.com/jwilm/alacritty) - 跨平台，使用GPU加速的终端模拟器。 [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
+- [XShell](https://www.netsarang.com/zh/xshell/) - 业界最强大的SSH客户机，同时还有XFtp，分商业版本和个人版本，安装时选择。 [![Freeware][Freeware Icon]
 
 
 ### 实用程序
