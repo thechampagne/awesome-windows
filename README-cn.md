@@ -66,11 +66,11 @@
 ### 聊天客户端
 - [Discord](https://discordapp.com) - Discord是免费的语音和文本聊天客户端，适合玩家和非玩家。您可以从浏览器使用它，它可以在iOS，Android，Windows，Mac和Linux上使用。 ![Freeware][Freeware Icon]
 - [Hexchat](https://hexchat.github.io/) - 基于XChat的IRC客户端 [![Open-Source Software][OSS Icon]](https://hexchat.github.io/) ![Freeware][Freeware Icon]
-- [LimeChat](http://limechat.net) -即时通讯应用。 ![Freeware][Freeware Icon]
-- [Messenger for Desktop](http://messengerfordesktop.com/) - 一款 Facebook messenger 的桌面端程序。 [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
+- [LimeChat](http://limechat.net) -即时通讯软件。 ![Freeware][Freeware Icon]
+- [Messenger for Desktop](http://messengerfordesktop.com/) - Facebook messenger 的桌面端程序。 [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
 - [mIRC](http://www.mirc.com/) - 互联网中继聊天（IRC）客户端。![Freeware][Freeware Icon]
 - [Quassel](http://quassel-irc.org/) - Quassel IRC 是一款现代, 跨平台, 分布式的 IRC 客户端。 [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
-- [Telegram](https://desktop.telegram.org/) - 一个专注于速度和安全性的消息应用程序，它速度极快，简单且免费。[![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
+- [Telegram](https://desktop.telegram.org/) - 一个专注于速度和安全性的消息应用程序，它速度极快，操作简单且免费。[![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
 - [Waow](http://dedg3.com/wao/) - 卓越的 WhatsApp Web 客户端，为您提供最好的WhatsApp的体验。 ![Freeware][Freeware Icon]
 
 ### 压缩
