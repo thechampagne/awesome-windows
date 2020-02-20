@@ -3,6 +3,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
 
 > An awesome & curated list of best applications and tools for Windows.
+
 > *Please, consider supporting my work as a lot of effort takes place to generate this list! Thanks a lot.
 
 
