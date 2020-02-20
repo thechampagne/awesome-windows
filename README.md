@@ -315,6 +315,7 @@
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][Freeware Icon]
 - [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][OSS Icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][Freeware Icon]
+- [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][OSS Icon]](https://github.com/szTheory/exifcleaner) ![Freeware][Freeware Icon]
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
 - [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - A lossless file size optimizer supporting a wide array of formats.
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
