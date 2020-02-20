@@ -150,7 +150,7 @@
 - [Tower](https://www.git-tower.com/windows) - Tower - the most powerful Git client for Mac and Windows.
 - [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant)
 - [Velocity](http://velocity.silverlakesoftware.com/) - Offline API Documentation Tool. (like [Dash](https://kapeli.com/dash) for macOS)
-- [Visual Studio Code](https://code.visualstudio.com/) - Lightweight Source Code Editor.
+- [Visual Studio Code](https://code.visualstudio.com/) - Lightweight Source Code Editor. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
 - [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
 - [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client. ![Freeware][Freeware Icon]
