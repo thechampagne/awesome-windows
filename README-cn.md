@@ -118,24 +118,24 @@
 - [HeidiSQL](http://www.heidisql.com/）-适用于MySQL，MariaDB，Microsoft SQL Server和PostgreSQL的强大易用的客户端。
 - [HTTP工具包](https://httptoolkit.tech）-HTTP调试和模拟工具。 [！[开源软件] [OSS图标]]（https://github.com/httptoolkit）！[免费软件] [免费软件图标]
 - [仅休息](https://github.com/SwensenSoftware/im-only-resting）-基于WinForms的功能丰富的HTTP客户端[！[开源软件] [OSS图标]]（https ：//github.com/swensensoftware/im-only-resting）！[免费软件] [免费软件图标]
-- [Insomnia]（http://insomnia.rest）-具有漂亮界面的现代REST客户端。 ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
-- [Keylord]（https://protonail.com/products/keylord）用于Redis，LevelDB和Memcached键值数据库的跨平台GUI客户端。
-- [Mamp]（https://www.mamp.info/en/）-本地服务器环境。 ！[免费软件] [免费软件图标]
-- [合并]（http://meldmerge.org/）-视觉差异和合并工具。 [！[开源软件] [OSS图标]]（https://gitlab.gnome.org/GNOME/meld/）！[免费软件] [免费软件图标]
-- [NSudo]（https://github.com/M2Team/NSudo/）-强大的系统管理工具。 [！[开源软件] [OSS图标]]（https://github.com/M2Team/NSudo/）
-- [Open Server]（https://ospanel.io/）-便携式服务器平台和软件环境（例如MAMP，XAMPP，WAMP，非常用户友好）。 ！[免费软件] [免费软件图标]
-- [Pixie]（http://www.nattyware.com/pixie.php）-适用于开发人员的简单颜色选择器。
-- [pngquant]（https://pngquant.org/）-使用或wi在PNG文件上应用有损压缩
-- [PostgreSQL数据库]（http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools）-全面的工具列表。
-- [邮递员]（https://www.getpostman.com/postman）-REST客户端具有直观的用户界面，可以发送请求，保存响应，添加测试以及创建工作流。
-- [流程浏览器]（https://technet.microsoft.com/zh-cn/sysinternals/processexplorer.aspx）-强大的任务管理器。 ！[免费软件] [免费软件图标]
-- [Process Hacker]（http://processhacker.sourceforge.net/）-出色的全面任务管理器。
-- [进程监视器]（https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon）-sysinternal工具显示实时文件系统，注册表，网络和进程/线程活动。 ！[免费软件] [免费软件图标]
-- [RazorSQL]（http://www.razorsql.com/）-用于管理SQLite数据库的GUI，需要进行大量工作。
-- [Redis Desktop Manager]（http://redisdesktop.com/）跨平台的开源Redis DB管理工具。
-- [Robo 3T]（https://robomongo.org/）-适用于MongoDB爱好者的轻量级GUI。
-- [SourceTree]（https://www.sourcetreeapp.com/）-免费的Git和Mercurial客户。
-- [Sql Wave]（http://www.valentina-db.com/en/sqlwave）-一个MySQL数据库管理器。
+- [Insomnia](http://insomnia.rest）-具有漂亮界面的现代REST客户端。 ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
+- [Keylord](https://protonail.com/products/keylord）用于Redis，LevelDB和Memcached键值数据库的跨平台GUI客户端。
+- [Mamp](https://www.mamp.info/en/）-本地服务器环境。 ！[免费软件] [免费软件图标]
+- [合并](http://meldmerge.org/）-视觉差异和合并工具。 [！[开源软件] [OSS图标]]（https://gitlab.gnome.org/GNOME/meld/）！[免费软件] [免费软件图标]
+- [NSudo](https://github.com/M2Team/NSudo/）-强大的系统管理工具。 [！[开源软件] [OSS图标]]（https://github.com/M2Team/NSudo/）
+- [Open Server](https://ospanel.io/）-便携式服务器平台和软件环境（例如MAMP，XAMPP，WAMP，非常用户友好）。 ！[免费软件] [免费软件图标]
+- [Pixie](http://www.nattyware.com/pixie.php）-适用于开发人员的简单颜色选择器。
+- [pngquant](https://pngquant.org/）-使用或wi在PNG文件上应用有损压缩
+- [PostgreSQL数据库](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools）-全面的工具列表。
+- [邮递员](https://www.getpostman.com/postman）-REST客户端具有直观的用户界面，可以发送请求，保存响应，添加测试以及创建工作流。
+- [流程浏览器](https://technet.microsoft.com/zh-cn/sysinternals/processexplorer.aspx）-强大的任务管理器。 ！[免费软件] [免费软件图标]
+- [Process Hacker](http://processhacker.sourceforge.net/）-出色的全面任务管理器。
+- [进程监视器](https://docs.microsoft.com/zh-cn/sysinternals/downloads/procmon）-sysinternal工具显示实时文件系统，注册表，网络和进程/线程活动。 ！[免费软件] [免费软件图标]
+- [RazorSQL](http://www.razorsql.com/）-用于管理SQLite数据库的GUI，需要进行大量工作。
+- [Redis Desktop Manager](http://redisdesktop.com/）跨平台的开源Redis DB管理工具。
+- [Robo 3T](https://robomongo.org/）-适用于MongoDB爱好者的轻量级GUI。
+- [SourceTree](https://www.sourcetreeapp.com/）-免费的Git和Mercurial客户。
+- [Sql Wave](http://www.valentina-db.com/en/sqlwave）-一个MySQL数据库管理器。
 - [SSLyog]（https://www.webyog.com/）-强大的MySQL管理工具
 - [TailBlazer]（https://github.com/RolandPheasant/TailBlazer）-一种用于浏览日志的小型快速工具[！[开源软件] [OSS图标]]（https://github.com/RolandPheasant/ TailBlazer）！[免费软件] [免费软件图标]
 - [TortoiseGit]（https://tortoisegit.org/）-具有完整Shell集成的Git客户端。 [！[开源软件] [OSS图标]]（https://github.com/tortoisegit/tortoisegit/）！[免费软件] [免费软件图标]
