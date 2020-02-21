@@ -32,7 +32,7 @@
   - [Text Editors](#text-editors)
   - [IDEs](#ides)
   - [Utilities](#utilities)
-  - [Proxy and VPN Tools](#proxy-vpn-tools)
+  - [Proxy and VPN Tools](#proxy-and-vpn-tools)
   - [Video](#video)
 - [Setup](#setup)
     - [Windows 10](#windows-10-setup)
@@ -356,6 +356,8 @@
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
 ### Proxy and VPN Tools
+
+- [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
 
 ### Video
 
