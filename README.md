@@ -223,6 +223,7 @@
 - [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][freeware icon]
 - [Notepad2](http://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 - [Oni](http://onivim.io/) - Modern Modal Editing - powered by Neovim [![Open-Source Software][oss icon]](https://github.com/onivim/oni) ![Freeware][freeware icon]
+- [SpaceVim](https://spacevim.org) - A community-driven vim distribution
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) ![Freeware][freeware icon]
 
