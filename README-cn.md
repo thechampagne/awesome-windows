@@ -120,7 +120,7 @@
 - [GitKraken](https://www.gitkraken.com/)-一个漂亮的跨平台Git客户。 ![Freeware][Freeware Icon]
 - [HeidiSQL](http://www.heidisql.com/)-适用于MySQL，MariaDB，Microsoft SQL Server和PostgreSQL的强大易用的客户端。
 - [HTTP工具包](https://httptoolkit.tech)-HTTP调试和模拟工具。 [![Open-Source Software][OSS Icon]](https://github.com/httptoolkit)![Freeware][Freeware Icon]
-- [仅休息](https://github.com/SwensenSoftware/im-only-resting)-基于WinForms的功能丰富的HTTP客户端[![Open-Source Software][OSS Icon]](https ：//github.com/swensensoftware/im-only-resting)![Freeware][Freeware Icon]
+- [仅休息](https://github.com/SwensenSoftware/im-only-resting)-基于WinForms的功能丰富的HTTP客户端[![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting)![Freeware][Freeware Icon]
 - [Insomnia](http://insomnia.rest)-具有漂亮界面的现代REST客户端。 ![Open-Source Software][OSS Icon]![Freeware][Freeware Icon]
 - [Keylord](https://protonail.com/products/keylord)用于Redis，LevelDB和Memcached键值数据库的跨平台GUI客户端。
 - [Mamp](https://www.mamp.info/en/)-本地服务器环境。 ![Freeware][Freeware Icon]
@@ -140,7 +140,7 @@
 - [SourceTree](https://www.sourcetreeapp.com/)-免费的Git和Mercurial客户。
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave)-一个MySQL数据库管理器。
 - [SSLyog](https://www.webyog.com/)-强大的MySQL管理工具
-- [TailBlazer](https://github.com/RolandPheasant/TailBlazer)-一种用于浏览日志的小型快速工具[![Open-Source Software][OSS Icon]](https://github.com/RolandPheasant/ TailBlazer)![Freeware][Freeware Icon]
+- [TailBlazer](https://github.com/RolandPheasant/TailBlazer)-一种用于浏览日志的小型快速工具[![Open-Source Software][OSS Icon]](https://github.com/RolandPheasant/TailBlazer)![Freeware][Freeware Icon]
 - [TortoiseGit](https://tortoisegit.org/)-具有完整Shell集成的Git客户端。 [![Open-Source Software][OSS Icon]](https://github.com/tortoisegit/tortoisegit/)![Freeware][Freeware Icon]
 - [塔](https://www.git-tower.com/windows)-塔-Mac和Windows上功能最强大的Git客户端。
 - [Vagrant](https://www.vagrantup.com/)-用于构建和管理虚拟机的工具。 [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant)
@@ -161,7 +161,7 @@
 - [LibreOffice](https://www.libreoffice.org/)-开源办公套件。 [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/)![Freeware][Freeware Icon]
 - [Microsoft Office](http://www.office.com)-微软自己的生产力套件。
 - [NitroPDF](https://www.gonitro.com/pdf-reader)-您将获得的最佳PDF阅读器。
-- [OnlyOffice](https://www.onlyoffice.com/)-最完整，功能最丰富的办公和生产力套件。 ![Freeware000个文件Freeware Icon]
+- [OnlyOffice](https://www.onlyoffice.com/)-最完整，功能最丰富的办公和生产力套件。 ![Freeware][Freeware Icon]
 - [OpenOffice](https://www.openoffice.org/)-用于文字处理，电子表格，演示文稿，图形，数据库等的软件套件。 [![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html)![Freeware][Freeware Icon]
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)-PDF，ePub，MOBI，CHM，XPS，DjVu，CBZ，CBR阅读器。 [![Open-Source Software][OSS Icon]](https://github.com/sumatrapdfreader/sumatrapdf)![Freeware][Freeware Icon]
 - [WPS Office](https://www.wps.com/office-free)-完美的免费办公软件![Freeware][Freeware Icon]
@@ -175,7 +175,7 @@
 
 - [MailBird](https://www.mailbird.com/)-IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多语言支持。
 - [Mailspring](https://getmailspring.com/)-Nylas Mail的快速维护分支，建立在现代Web技术上。 [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring)![Freeware][Freeware Icon]
-- [Nylas Mail](https://www.nylas.com/download/)-基于现代网络构建的可扩展桌面邮件应用程序。 [[Open-Source Software][OSS Icon]](https://github.com/nylas/N1)![Freeware][Freeware Icon]
+- [Nylas Mail](https://www.nylas.com/download/)-基于现代网络构建的可扩展桌面邮件应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1)![Freeware][Freeware Icon]
 - [邮箱](https://postbox-inc.com/)-Power Email App
 - [Thunderbird](https://www.mozilla.org/zh-CN/thunderbird/)-具有简约设计的电子邮件客户端。 [![Open-Source Software][OSS Icon]](https://developer.mozilla.org/zh-CN/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)![Freeware][Freeware Icon]
 
