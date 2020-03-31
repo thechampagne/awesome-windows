@@ -173,7 +173,7 @@
 
 ### 电子邮件
 
-- [MailBird](https://www.mailbird.com/)-IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多语言支持。
+- [Mailbird](https://www.mailbird.com/)-IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多语言支持。
 - [Mailspring](https://getmailspring.com/)-Nylas Mail的快速维护分支，建立在现代Web技术上。 [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring)![Freeware][Freeware Icon]
 - [Nylas Mail](https://www.nylas.com/download/)-基于现代网络构建的可扩展桌面邮件应用程序。 [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1)![Freeware][Freeware Icon]
 - [邮箱](https://postbox-inc.com/)-Power Email App
