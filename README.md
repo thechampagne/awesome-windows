@@ -104,7 +104,7 @@
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector) ![Freeware][freeware icon]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][freeware icon]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][freeware icon]
-- [ZBar](http://www.zhornsoftware.co.uk/zbar/) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
+- [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
 ### Data Recovery
 
