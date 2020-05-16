@@ -226,14 +226,13 @@
 - [WebStorm](https://www.jetbrains.com/webstorm/) - JetBrain出品的JavaScipt开发平台。
 
 ### 在线存储
-- *[百度网盘](https://pan.baidu.com/)*，其他类似还有腾讯微云，坚果云等。
+- [百度网盘](https://pan.baidu.com/) - 其他类似还有腾讯微云，坚果云等。
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - 能够同步超过100,000个文件，并支持含有特殊字符的文件名和长度超过256个字符的路径。
 - [Dropbox](https://www.dropbox.com/install) -简单，优雅和多功能（PC，Mac，Android ...）云存储解决方案。
 - [Google Drive](https://www.google.com/drive/download/) - 深深融入Google生态系统的云存储解决方案。
 - [Hubic](https://hubic.com/en/) - 为 Windows, Linux, MacOsx, iOs & Android 平台设计的云存储。
 - [Mozy](https://mozy.com/product/download)
 - [OneDrive](https://onedrive.live.com/about/en-us/download/) - 为Windows用户提供最佳云存储解决方案，原先叫SkyDrive。
-- [百度网盘](https://pan.baidu.com/) - 中国垄断在线存储
 
 ### 备份
 - [Arq](https://www.arqbackup.com/) - 备份文件到你自己的云账户中（Amazon Cloud Drive，AWS，Dropbox，Google Drive，Google Cloud Storage，OneDrive，和SFTP）。
