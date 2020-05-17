@@ -256,6 +256,7 @@
 - [MultiCommander](http://multicommander.com/) - 为专业用户提供的文件管理器。 ![Freeware][Freeware Icon]
 - [Ninite](https://ninite.com/) - 最简单，最快速的更新或安装软件的方式。 ![Freeware][Freeware Icon]
 - [One Commander](http://onecommander.com/) - 多面板的文件管理器。 ![Freeware][Freeware Icon]
+- [Quicker](https://getquicker.net/) - Windows上的超级启动器+自动化利器，快捷动作设计与分享平台。
 - [Scoop](https://github.com/lukesampson/scoop) - Windows 的命令行安装程序。 [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
 - [Simplenote](https://simplenote.com/) - 基于云同步的简单跨平台笔记应用程序。 ![Freeware][Freeware Icon]
 - [Total Commander](https://www.ghisler.com/) - Windows 上最佳的文件管理器。
