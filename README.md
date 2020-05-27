@@ -278,6 +278,7 @@
 - [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to _Launchy_ and a cousin of _Alfred_. ![Freeware][freeware icon]
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][oss icon]](https://github.com/OpenNingia/Launchy) ![Freeware][freeware icon]
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
+- [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
 - [MultiCommander](http://multicommander.com/) - File Manager for Professionals. ![Freeware][freeware icon]
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][freeware icon]
 - [One Commander](http://onecommander.com/) - File manager featuring miller columns and dual-pane views. ![Freeware][freeware icon]
