@@ -317,6 +317,7 @@
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][freeware icon]
+- [Econap](https://econap.de) - Prevent sleep mode while your system is busy. ![Freeware][freeware icon]
 - [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][oss icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][freeware icon]
 - [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) ![Freeware][freeware icon]
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][oss icon]](http://sourceforge.net/projects/farmanager/)
