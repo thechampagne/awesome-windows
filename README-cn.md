@@ -223,7 +223,7 @@
 - [Rider](https://www.jetbrains.com/rider/) -  JetBrain出品的跨平台的用于.NET/Mono开发的IDE.
 - [RubyMine](https://www.jetbrains.com/ruby/) - JetBrain出品的跨平台的Ruby开发平台，支持多种框架。
 - [Visual Studio](https://www.visualstudio.com/vs/) - 微软官方的 IDE，通过插件可支持大量编程语言。
-- [WebStorm](https://www.jetbrains.com/webstorm/) - JetBrain出品的JavaScipt开发平台。
+- [WebStorm](https://www.jetbrains.com/webstorm/) - JetBrain出品的JavaScript开发平台。
 
 ### 在线存储
 - [百度网盘](https://pan.baidu.com/) - 其他类似还有腾讯微云，坚果云等。
