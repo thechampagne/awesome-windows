@@ -443,8 +443,9 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 
 **[⬆ back to top](#applications)**
 
-[oss icon]: https://cdn.rawgit.com/thechampagne/awesome-windows/main/media/OSS.svg
-[freeware icon]: https://cdn.rawgit.com/thechampagne/awesome-windows/main/media/free.svg
+[oss icon]: https://raw.githubusercontent.com/thechampagne/awesome-windows/main/media/OSS.svg
+[freeware icon]: https://raw.githubusercontent.com/thechampagne/awesome-windows/main/media/free.svg#gh-light-mode-only
+[freeware icon]: https://raw.githubusercontent.com/thechampagne/awesome-windows/main/media/free-light.svg#gh-dark-mode-only
 
 ## License
 
