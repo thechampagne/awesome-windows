@@ -1,14 +1,12 @@
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
+# <img src="https://raw.githubusercontent.com/thechampagne/awesome-windows/main/media/main-awesomeWindows.png" width="400" alt="awesome windows">
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
-
-<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 > Windows上优质&精选的最佳应用程序及工具列表。
 
 > *标有 ![Open-Source Software][OSS Icon] 的项目是Open-Source Software。 标有![Freeware][Freeware Icon] 的项目是Freeware。*
 
-# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
+# <img src="https://raw.githubusercontent.com/thechampagne/awesome-windows//main/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
 - [应用程序](#应用程序)
   - [音频](#音频)
@@ -421,5 +419,5 @@ TODO
 此项目基于[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
-[OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
-[Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+[OSS Icon]: https://cdn.rawgit.com/thechampagne/awesome-windows/main/media/OSS.svg
+[Freeware Icon]: https://cdn.rawgit.com/thechampagne/awesome-windows/main/media/free.svg
