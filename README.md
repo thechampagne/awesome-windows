@@ -306,6 +306,7 @@
 
 - [A-Z of Windows Terminal Commands](http://ss64.com/nt/)
 - [Acrosync](https://acrosync.com/windows.html) - The only native rsync client for Windows (no cygwin required). It supports automatic uploads on file changes and incremental hourly backups.
+- [BCUninstaller](https://www.bcuninstaller.com/) - Bulk Crap Uninstaller - A free and open-source app uninstaller. Remove large amounts of unwanted applications quickly. [![Open-Source Software][oss icon]](https://github.com/Klocman/Bulk-Crap-Uninstaller) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
 - [Advanced Renamer](https://www.advancedrenamer.com/) - Advanced batch renaming program, with support for renaming based on GPS data from images, ID3 tags from music files, TV show data and regular expressions. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Bandicam](https://www.bandicam.com) - Recording software allowing easy video recording of both desktop and 3D apps simultaneously.
