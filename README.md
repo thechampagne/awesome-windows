@@ -269,6 +269,7 @@
 - [Executor.dk](http://executor.dk/) - A free multi purpose customizable and light-weight launcher. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [File Juggler](https://www.filejuggler.com/) - Organize files automatically. Monitor folders and execute actions like rename, delete, unzip and more. Finds dates in PDFs and much more.
+- [Files](https://files.community/) - A modern file manager that helps users organize their files and folders. [![Open-Source Software][oss icon]](https://github.com/files-community/Files) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
 - [KatMouse](http://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to _Launchy_ and a cousin of _Alfred_. ![Freeware][freeware icon] ![Freeware][freeware icon light]
