@@ -288,6 +288,7 @@
 
 ### Terminal
 
+- [Warp] (https://git.new/Warpterm) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. 
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Babun](http://babun.github.io) - Alternative Windows shell based on Cygwin. [![Open-Source Software][oss icon]](https://github.com/babun/babun) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Cmder](https://cmder.net) - Console emulator package with clink shell. [![Open-Source Software][oss icon]](https://github.com/cmderdev/cmder) ![Freeware][freeware icon] ![Freeware][freeware icon light]
