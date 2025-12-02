@@ -285,6 +285,8 @@
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][oss icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
+every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss icon]](https://github.com/necdetsanli/EyeRest) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 
 ### Terminal
 
