@@ -267,6 +267,8 @@
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Switch between application instances, fast.
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [Executor.dk](http://executor.dk/) - A free multi purpose customizable and light-weight launcher. ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
+every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss icon]](https://github.com/necdetsanli/EyeRest) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [File Juggler](https://www.filejuggler.com/) - Organize files automatically. Monitor folders and execute actions like rename, delete, unzip and more. Finds dates in PDFs and much more.
 - [Files](https://files.community/) - A modern file manager that helps users organize their files and folders. [![Open-Source Software][oss icon]](https://github.com/files-community/Files) ![Freeware][freeware icon] ![Freeware][freeware icon light]
@@ -285,6 +287,7 @@
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][oss icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+
 
 ### Terminal
 
