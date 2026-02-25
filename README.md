@@ -259,6 +259,7 @@
 
 - [Aperture Control](https://github.com/Lieturd/aperture-control) - Windows environment automation tool with a number of [premade recipes](https://github.com/Lieturd/aperture-control-recipes) and [examples](https://github.com/Lieturd/aperture-control-example) available. [![Open-Source Software][oss icon]](https://github.com/Lieturd/aperture-control) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][oss icon]](https://autohotkey.com/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
 - [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
 - [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - A Command Line program monitor systray for Windows. [![Open-Source Software][oss icon]](https://github.com/rexdf/CommandTrayHost) ![Freeware][freeware icon] ![Freeware][freeware icon light]
