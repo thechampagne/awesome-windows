@@ -216,6 +216,7 @@
 - [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. [![Open-Source Software][oss icon]](https://savannah.gnu.org/projects/emacs/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][oss icon]](https://github.com/vim/vim) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [MDLook](https://mdlook.com) - Portable, fully offline Markdown editor for Windows using WebView2.
 - [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Notepad2](http://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software][oss icon] ![Freeware][freeware icon] ![Freeware][freeware icon light]
