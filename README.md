@@ -152,6 +152,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/) - Lightweight Source Code Editor. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
+- [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Windows system tray app for monitoring Claude Code token usage in real time. [![Open-Source Software][oss icon]](https://github.com/jeongwookie/WhereMyTokens) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. [![Open-Source Software][oss icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [WMI Explorer](https://github.com/vinaypamnani/wmie2/) - Provides the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view. [![Open-Source Software][oss icon]](https://github.com/vinaypamnani/wmie2/)
