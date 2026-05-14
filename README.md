@@ -286,6 +286,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [MultiCommander](http://multicommander.com/) - File Manager for Professionals. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [One Commander](http://onecommander.com/) - File manager featuring miller columns and dual-pane views. ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [RightWheel](https://chautnus.github.io/RightWheel/) - Mouse shortcut panel for Windows — hold right-click and scroll to instantly launch apps, trigger shortcuts, run commands and open URLs without touching the keyboard. Supports folder submenus, shell commands, import templates, and 9 languages. Portable single .exe, no install required.
 - [SPAN Finder](https://github.com/LumiBearStudio/SpanFinder) - macOS Finder-style Miller Columns file explorer with multi-tab, split view, and 10 themes. [![Open-Source Software][oss icon]](https://github.com/LumiBearStudio/SpanFinder) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][freeware icon] ![Freeware][freeware icon light]
