@@ -188,6 +188,10 @@
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design. [![Open-Source Software][oss icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [BlueMail](https://www.bluemail.me/desktop/) - beautifully designed, powerful and easy to use email app if you're looking for cross-platform functionality.
 
+### Finance
+
+- [TabChart](https://tabchart.com) - Free native crypto charting app with multi-chart layout and real-time WebSocket data from multiple exchanges. ![Freeware][freeware icon] ![Freeware][freeware icon light]
+
 ### Games
 
 - [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][oss icon]](https://github.com/0ad/0ad) ![Freeware][freeware icon] ![Freeware][freeware icon light]
