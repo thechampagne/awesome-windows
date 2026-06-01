@@ -298,6 +298,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 ### Terminal
 
+- [AbsoluteTelnet/SSH](https://www.celestialsoftware.net) - Commercial Windows SSH, SFTP, Telnet, and serial terminal client with smart-card authentication, SSH certificates, tabbed sessions, and Unicode support.
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Babun](http://babun.github.io) - Alternative Windows shell based on Cygwin. [![Open-Source Software][oss icon]](https://github.com/babun/babun) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Cmder](https://cmder.net) - Console emulator package with clink shell. [![Open-Source Software][oss icon]](https://github.com/cmderdev/cmder) ![Freeware][freeware icon] ![Freeware][freeware icon light]
