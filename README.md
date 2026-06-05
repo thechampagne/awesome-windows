@@ -373,6 +373,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][oss icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
+- [UpWatchr](https://upwatchr.io) - Local-first uptime monitor for websites and services. Native, no cloud and no account. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 - [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
 - [WindowsWidgets](https://github.com/emretulek/WindowsWidgets) - Application for adding and managing customizable desktop widgets for Windows 10 and 11. [![Open-Source Software][oss icon]](https://github.com/emretulek/WindowsWidgets) ![Freeware][freeware icon] ![Freeware][freeware icon light]
