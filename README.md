@@ -252,6 +252,7 @@
 
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
 - [Dropbox](https://www.dropbox.com/install) -Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
+- [FTPie](https://ftpie.com) - FTP, SFTP, WebDAV, NAS, and major consumer clouds in one client.
 - [Google Drive](https://www.google.com/drive/download/) - Cloud storage solution deeply integrated in the Google ecosystem.
 - [pCloud](https://www.pcloud.com) - A swiss based privacy first cloud provider. Also offers one time payment lifetime plans.
 - [Sync](https://www.sync.com/) - Encrypted file storage that stores all files in canadian datacenters
