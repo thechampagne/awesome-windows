@@ -410,6 +410,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Flowtake](https://jnx03.github.io/Flowtake/) - Local-first screen recorder and timeline editor with local MP4 export. [![Open-Source Software][oss icon]](https://github.com/JNX03/Flowtake)
 - [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake)
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
+- [LiveFaceSwap AI](https://livefaceswap.ai/) - Real-time AI face swap app with web preview and a Windows client that outputs a virtual camera for compatible streaming, meeting, and video-call apps such as OBS.
 - [mpv](http://mpv.io/) - Media player. [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv)
 - [Olive Video Editor](https://www.olivevideoeditor.org/) - Open source cross-platform non-linear video editor. [![Open-Source Software][oss icon]](https://github.com/olive-editor/olive) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss icon]](https://github.com/jp9000/OBS)
