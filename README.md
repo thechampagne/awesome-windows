@@ -397,6 +397,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Yacy](https://github.com/yacy/yacy_search_server) - A general search engine by corporations of people, including the search web page, general crawlers, indexing, and ranking functions.[![Open-Source Software][oss icon]](https://github.com/yacy/yacy_search_server)
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - A decentralized web. [![Open-Source Software][oss icon]](https://github.com/HelloZeroNet/ZeroNet)
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
+- [RenomeeAI](https://renomeeai.com) - AI-powered Windows batch file renamer that renames files with natural language instead of regex.
 
 ### Proxy and VPN Tools
 
