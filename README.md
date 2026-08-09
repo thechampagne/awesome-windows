@@ -220,6 +220,7 @@
 - [MapTiler](https://www.maptiler.com/) - MapTiler generates zoomable raster maps from images in user-defined coordinate system. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Paint.net](http://www.getpaint.net/index.html) - how can you live without paint.net? ![Freeware][freeware icon] ![Freeware][freeware icon light]
 
+- [Screen Studio Kit](https://martingruner.com/projects/screenshot-studio) - Create, localize, validate, and export store screenshots from reusable projects on Windows.
 ### Text Editors
 
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][oss icon]](https://github.com/atom/atom) ![Freeware][freeware icon] ![Freeware][freeware icon light]
