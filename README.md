@@ -120,6 +120,7 @@
 - [DB Browser for SQLite](http://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][oss icon]](http://sqlitebrowser.org/)
 * [DevDock](https://martingruner.com/projects/devdock) - Manage projects, commands, Docker, databases, and security checks in one Windows workspace.
 - [DevProjex](https://github.com/Avazbek22/DevProjex) - Builds clean, AI-ready project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export through a fast GUI and CLI. [![Open-Source Software][oss icon]](https://github.com/Avazbek22/DevProjex) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Diff Anything](https://martingruner.com/projects/diffanything) - Compare text, structured data, folders, images, and more locally on Windows.
 - [ExtendsClass](https://extendsclass.com/) - Online tools for developers (REST/SOAP clients, SQLite browser, Regex tester, XPath tester) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
 - [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][oss icon]](https://download.filezilla-project.org/client/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
