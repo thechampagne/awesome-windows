@@ -117,6 +117,7 @@
 
 - [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and full-featured web client.
 - [ChatCrystal](https://zengliangyi.github.io/ChatCrystal/) - Local-first Windows desktop app that turns AI coding conversations into searchable knowledge notes. [![Open-Source Software][oss icon]](https://github.com/ZengLiangYi/ChatCrystal) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Privacy-friendly overlay that shows Codex Desktop quota, reset time, and reset credits beside the conversation title. [![Open-Source Software][oss icon]](https://github.com/cpys/codex-quota-overlay) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [DB Browser for SQLite](http://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][oss icon]](http://sqlitebrowser.org/)
 * [DevDock](https://martingruner.com/projects/devdock) - Manage projects, commands, Docker, databases, and security checks in one Windows workspace.
 - [DevProjex](https://github.com/Avazbek22/DevProjex) - Builds clean, AI-ready project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export through a fast GUI and CLI. [![Open-Source Software][oss icon]](https://github.com/Avazbek22/DevProjex) ![Freeware][freeware icon] ![Freeware][freeware icon light]
