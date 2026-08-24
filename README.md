@@ -351,6 +351,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [DiskGeek](https://techygeekshome.info/diskgeek/) - Disk space analyzer with list and treemap views, exact and perceptual duplicate detection, batch rename, and snapshot comparison to see what grew between scans. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Econap](https://econap.de) - Prevent sleep mode while your system is busy. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][oss icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) ![Freeware][freeware icon] ![Freeware][freeware icon light]
