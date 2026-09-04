@@ -116,6 +116,7 @@
 
 ### Developer Tools
 
+- [1bench](https://1bench.dev) - Desktop client for Postgres, Redis, ClickHouse, MongoDB and about two dozen other databases.
 - [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and full-featured web client.
 - [ChatCrystal](https://zengliangyi.github.io/ChatCrystal/) - Local-first Windows desktop app that turns AI coding conversations into searchable knowledge notes. [![Open-Source Software][oss icon]](https://github.com/ZengLiangYi/ChatCrystal) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Privacy-friendly overlay that shows Codex Desktop quota, reset time, and reset credits beside the conversation title. [![Open-Source Software][oss icon]](https://github.com/cpys/codex-quota-overlay) ![Freeware][freeware icon] ![Freeware][freeware icon light]
