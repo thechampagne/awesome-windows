@@ -198,6 +198,7 @@
 
 ### Finance
 
+- [Posnic](https://www.posnic.com/) - Offline-first open-source POS and billing software for retail shops and restaurants. [![Open-Source Software][oss icon]](https://github.com/Posnic/POS) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [TabChart](https://tabchart.com) - Free native crypto charting app with multi-chart layout and real-time WebSocket data from multiple exchanges. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 
 ### Games
