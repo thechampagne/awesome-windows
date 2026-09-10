@@ -167,6 +167,7 @@
 - [WMI Explorer](https://github.com/vinaypamnani/wmie2/) - Provides the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view. [![Open-Source Software][oss icon]](https://github.com/vinaypamnani/wmie2/)
 - [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Xftp 5](https://www.netsarang.com/products/xfp_overview.html) - Flexible and lightweight SFTP/FTP client. ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [YYLO](https://yylo.dev) - Command-line orchestrator for coding agents that runs typed tasks in dedicated worktrees and drives a risk-based merge queue. [![Open-Source Software][oss icon]](https://github.com/yylo-dev/yylo) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Zsh](http://www.zsh.org/) - A powerful command line shell. [![Open-Source Software][oss icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 
 ### Documents
