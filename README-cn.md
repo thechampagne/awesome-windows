@@ -109,6 +109,7 @@
 - [Addict](https://github.com/dthree/addict) - Active Directory的嵌入式REST API。
 - [Cacher](https://www.cacher.io/)-具有Gist同步，VSCode / Atom / Sublime软件包和功能齐全的Web客户端的基于云的，团队启用的代码段管理器。
 - [用于SQLite的数据库浏览器](http://sqlitebrowser.org/)-用于创建，设计和编辑与SQLite兼容的数据库文件的高质量，可视，开放源代码工具[![Open-Source Software][OSS Icon] ](http://sqlitebrowser.org/)
+- [DevPeek](https://devpeek.ypgao.com/)-免费 HTTP(S) 抓包调试工具，支持 Mock、参数自动解密与请求重发。 ![Freeware][Freeware Icon]
 - [ExtendsClass](https://extendsclass.com/)-开发人员的在线工具（REST / SOAP客户端，SQLite浏览器，Regex测试器，XPath测试器）![Freeware][Freeware Icon]
 - [Fiddler](http://www.telerik.com/fiddler)-Web调试代理。
 - [FileZilla](https://filezilla-project.org/)-FTP，FTPS和SFTP客户端。 [![Open-Source Software][OSS Icon]](https://download.filezilla-project.org/client/)![Freeware][Freeware Icon]
