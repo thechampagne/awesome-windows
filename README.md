@@ -282,6 +282,7 @@
 
 - [AI Dictation](https://aidictation.com) - Voice-to-text app with a configurable global shortcut for supported Windows applications. [![Open-Source Software][oss icon]](https://github.com/writingmate/aidictation)
 - [Aperture Control](https://github.com/Lieturd/aperture-control) - Windows environment automation tool with a number of [premade recipes](https://github.com/Lieturd/aperture-control-recipes) and [examples](https://github.com/Lieturd/aperture-control-example) available. [![Open-Source Software][oss icon]](https://github.com/Lieturd/aperture-control) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [AutoDoc](https://getautodoc.com/) - Records meetings and creates local transcripts and AI notes. [![Open-Source Software][oss icon]](https://github.com/DuetDisplay/AutoDoc) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][oss icon]](https://autohotkey.com/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. [![Open-Source Software][oss icon]](https://github.com/mnardit/beetroot-releases) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
