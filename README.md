@@ -228,6 +228,7 @@
 - [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. [![Open-Source Software][oss icon]](https://krita.org/en/download/krita-desktop/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [MapTiler](https://www.maptiler.com/) - MapTiler generates zoomable raster maps from images in user-defined coordinate system. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Paint.net](http://www.getpaint.net/index.html) - how can you live without paint.net? ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Thumbico](https://www.aurelitec.com/thumbico/) - Shows the thumbnail or icon of any file, folder, or drive at the size you choose, exactly as Explorer draws it, and saves it as PNG, ICO, and more. [![Open-Source Software][oss icon]](https://github.com/aurelitec/thumbico) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 
 - [Screen Studio Kit](https://martingruner.com/projects/screenshot-studio) - Create, localize, validate, and export store screenshots from reusable projects on Windows.
 ### Text Editors
