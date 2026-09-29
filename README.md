@@ -142,6 +142,7 @@
 - [Meld](http://meldmerge.org/) - A visual diff and merge tool. [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
 - [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly). ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [OpenTokenUsage](https://opentokenusage.app) - Tray app showing session and weekly usage limits, reset times, and pace for Claude Code, Codex, Cursor, GitHub Copilot, and other AI coding subscriptions. [![Open-Source Software][oss icon]](https://github.com/PowerUserZ/OpenTokenUsage) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 - [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
 - [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
