@@ -217,6 +217,7 @@
 - [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
 - [Origin](https://www.origin.com/en-in/store/) - Like Steam, but for EA.
 - [Steam](http://store.steampowered.com/) - Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time. But you already knew that.
+- [SteamRadar](https://protagonistlabs.app/steamradar/) - Tray app that alerts when a Steam, GOG or Epic game goes free or on sale. [![Open-Source Software][oss icon]](https://github.com/limburatorul/steamradar) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials.
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
 - [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][freeware icon] ![Freeware][freeware icon light]
