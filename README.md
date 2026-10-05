@@ -403,6 +403,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [ShotsGlow](https://shotsglow.com/) - Capture a region, drop it onto a gradient backdrop, annotate, blur/redact (survives a later crop), and remove image backgrounds with an on-device AI model. Paid, no subscription.
 - - [softx64](https://softx64.ir) - One-click installer and catalog for free Windows software; downloads always come directly from each app's official source. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
+- [SpaceScan](https://protagonistlabs.app/spacescan/) - Disk space analyzer that reads the NTFS Master File Table to map a whole drive in seconds, with a duplicate finder. [![Open-Source Software][oss icon]](https://github.com/limburatorul/spacescan) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][Freeware Icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
