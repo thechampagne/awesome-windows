@@ -278,6 +278,7 @@
 ### Backup
 
 - [Arq](https://www.arqbackup.com/) - Backs up your files to your own cloud account (Amazon Cloud Drive, AWS, Dropbox, Google Drive, Google Cloud Storage, OneDrive, and SFTP).
+- [Backup Labs](https://protagonistlabs.app/backuplabs/) - Incremental backups to an external drive, USB stick or NAS, with every earlier version restorable. [![Open-Source Software][oss icon]](https://github.com/limburatorul/backup-labs) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Bvckup 2](https://bvckup2.com/) - Light, versatile data replication software.
 - [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/duplicati/duplicati) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 
