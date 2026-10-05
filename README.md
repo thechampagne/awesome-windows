@@ -378,6 +378,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Glary Utilities](http://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
 - [GPU-Z](http://www.techpowerup.com/gpuz/) - A free all-in-one GPU monitoring tool. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Greenshot](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. [![Open-Source Software][oss icon]](https://github.com/greenshot/greenshot)
+- [HotkeyScan](https://protagonistlabs.app/hotkeyscan/) - Finds which program is holding a hotkey, with the evidence. [![Open-Source Software][oss icon]](https://github.com/limburatorul/hotkeyscan) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][oss icon]](https://github.com/xroche/httrack/tree/master)
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
 - [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
