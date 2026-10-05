@@ -370,6 +370,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][oss icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][oss icon]](http://sourceforge.net/projects/farmanager/)
+- [File Labs](https://protagonistlabs.app/filelabs/) - Dual-pane file manager with its own verified copy engine. [![Open-Source Software][oss icon]](https://github.com/limburatorul/file-labs) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - A lossless file size optimizer supporting a wide array of formats.
 - [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation for HTTP, FTP, BitTorrent, eD2K, HLS and DASH. [![Open-Source Software][oss icon]](https://github.com/zerx-lab/FluxDown) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
