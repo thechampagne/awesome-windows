@@ -139,6 +139,7 @@
 - [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][oss icon] ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
 - [KyttoMCP](https://kytto.jakubhecht.sk/) - Manages MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex, with health checks, a tool-description safety scan and config backups. [![Open-Source Software][oss icon]](https://github.com/heyitsjakub/KyttoMCP) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [llmash](https://github.com/omgitsbase/llmash) - Ollama-compatible local LLM server and command line, with faster decoding on NVIDIA GPUs. [![Open-Source Software][oss icon]](https://github.com/omgitsbase/llmash) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Mamp](https://www.mamp.info/en/) - Local server environment. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Meld](http://meldmerge.org/) - A visual diff and merge tool. [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
