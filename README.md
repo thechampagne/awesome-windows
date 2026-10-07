@@ -291,6 +291,7 @@
 - [Awayra](https://awayra.github.io/AWAYRA-WPF/) - Offline Windows break reminder with separate eye-rest and movement schedules, guided breaks, and no telemetry. [![Open-Source Software][oss icon]](https://github.com/AWAYRA/AWAYRA-WPF) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. [![Open-Source Software][oss icon]](https://github.com/mnardit/beetroot-releases) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
+- [Clipboard Manager](https://secoolioo.github.io/clipboard-manager/) - Keyboard-first clipboard history with instant search that survives restarts, local only. [![Open-Source Software][oss icon]](https://github.com/Secoolioo/clipboard-manager) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
 - [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - A Command Line program monitor systray for Windows. [![Open-Source Software][oss icon]](https://github.com/rexdf/CommandTrayHost) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with advanced features. [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ) ![Freeware][freeware icon] ![Freeware][freeware icon light]
