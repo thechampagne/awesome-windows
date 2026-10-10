@@ -383,6 +383,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
 - [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
 - [iScribby](https://iscribby.com/) - A neat little application that allows you to draw over anything on your screen (fullscreen apps included), while staying as unobtrusive as possible. ![Freeware][freeware icon light]
+- [LeanFPS](https://leanfps.com/) - Windows 10/11 game optimizer with ETW FPS measurement and individually reversible tweaks. [![Open-Source Software][oss icon]](https://github.com/Jamailar/leanfps)
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
