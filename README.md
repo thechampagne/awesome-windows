@@ -120,6 +120,7 @@
 - [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and full-featured web client.
 - [ChatCrystal](https://zengliangyi.github.io/ChatCrystal/) - Local-first Windows desktop app that turns AI coding conversations into searchable knowledge notes. [![Open-Source Software][oss icon]](https://github.com/ZengLiangYi/ChatCrystal) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Privacy-friendly overlay that shows Codex Desktop quota, reset time, and reset credits beside the conversation title. [![Open-Source Software][oss icon]](https://github.com/cpys/codex-quota-overlay) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [covdbg](https://covdbg.com/) - Windows x64 C++ coverage from existing binaries and matching PDB symbols, with source-level reports and a local MCP server for coding agents.
 - [DB Browser for SQLite](http://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][oss icon]](http://sqlitebrowser.org/)
 * [DevDock](https://martingruner.com/projects/devdock) - Manage projects, commands, Docker, databases, and security checks in one Windows workspace.
 - [DevPeek](https://devpeek.ypgao.com/) - A free HTTP(S) debugging proxy with request mock, automatic parameter decryption, and request replay. ![Freeware][freeware icon] ![Freeware][freeware icon light]
