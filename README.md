@@ -72,6 +72,7 @@
 
 ### Chat Clients
 
+- [Booth](https://shadi-alrashoodi.github.io/booth/) - Low-delay voice, text chat and screen sharing for a few friends who game together, with one of them hosting on their own PC. [![Open-Source Software][oss icon]](https://github.com/Shadi-Alrashoodi/booth) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Caprine](https://sindresorhus.com/caprine/) - An elegant Facebook Messenger desktop app. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Discord](https://discordapp.com) - Discord is a free voice and text chat client for gamers and non-gamers alike. You can use it from your browser and it's available on iOS, Android, Windows, Mac, and Linux. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Hexchat](https://hexchat.github.io/) - IRC client based on XChat [![Open-Source Software][oss icon]](https://hexchat.github.io/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
