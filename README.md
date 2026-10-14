@@ -289,6 +289,7 @@
 - [AutoDoc](https://getautodoc.com/) - Records meetings and creates local transcripts and AI notes. [![Open-Source Software][oss icon]](https://github.com/DuetDisplay/AutoDoc) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][oss icon]](https://autohotkey.com/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Awayra](https://awayra.github.io/AWAYRA-WPF/) - Offline Windows break reminder with separate eye-rest and movement schedules, guided breaks, and no telemetry. [![Open-Source Software][oss icon]](https://github.com/AWAYRA/AWAYRA-WPF) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Beav](https://beav.pro/) - Local-first social-media workspace with separate account spaces, reusable image templates, and an AI-accessible asset library. [Source available for non-commercial use](https://github.com/Jamailar/Beav).
 - [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. [![Open-Source Software][oss icon]](https://github.com/mnardit/beetroot-releases) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
 - [ClickPulse](https://github.com/endNone/ClickPulse) - Offline keyboard and mouse activity tracker with daily trends, keyboard heatmaps, and a floating mini window. [![Open-Source Software][oss icon]](https://github.com/endNone/ClickPulse) ![Freeware][freeware icon] ![Freeware][freeware icon light]
@@ -523,3 +524,4 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
