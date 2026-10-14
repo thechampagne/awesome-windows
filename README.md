@@ -381,6 +381,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Greenshot](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. [![Open-Source Software][oss icon]](https://github.com/greenshot/greenshot)
 - [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][oss icon]](https://github.com/xroche/httrack/tree/master)
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
+-  [HoloWin](https://rotsl.github.io/HoloWin/) - Open-source Windows 11 utility for triggering actions with calibrated desk taps, webcam hand gestures, and sensor events. [![Open Source](https://img.shields.io/badge/Open%20Source-❤-blue)](https://github.com/rotsl/HoloWin).
 - [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
 - [iScribby](https://iscribby.com/) - A neat little application that allows you to draw over anything on your screen (fullscreen apps included), while staying as unobtrusive as possible. ![Freeware][freeware icon light]
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
