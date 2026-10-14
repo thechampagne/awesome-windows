@@ -89,6 +89,7 @@
 - [Classic Start](https://github.com/passionate-coder/Classic-Start) - 使用开始菜单和资源管理器就像2000年一样。 [![Open-Source Software][OSS Icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][Freeware Icon]
 - [Clover](http://en.ejie.me/) - 将多选项卡功能添加到Windows资源管理器。![Freeware][Freeware Icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - 从系统托盘按应用程序控制音量。[![Open-Source Software][OSS Icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][Freeware Icon]
+- [Klakk](https://tryklakk.com/zh/windows/?utm_source=awesome-windows&utm_medium=referral&utm_campaign=windows-discovery&utm_content=customization-zh) - 在 Windows 应用中播放打字音效，提供 14 个音效包和[网页试听](https://tryklakk.com/zh/?utm_source=awesome-windows&utm_medium=referral&utm_campaign=windows-discovery&utm_content=preview-zh#demo)。免费试用 3 天，之后一次性购买。
 - [QTTabBar](http://qttabbar.wikidot.com/) - 通过选项卡和其他文件夹视图扩展资源管理器。 ![Freeware][Freeware Icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter允许您在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器。 [![Open-Source Software][OSS Icon]](https://github.com/rainmeter/rainmeter) ![Freeware][Freeware Icon]
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - 一个小型程序，将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎。 [![Open-Source Software][OSS Icon]](https://github.com/spikespaz/search-deflector) ![Freeware][Freeware Icon]
