@@ -161,6 +161,7 @@
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
 - [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
+- [Stackyard](https://aqibjaved.dev/apps/stackyard/) - Lists installed SDK and toolchain versions, shows which projects use each, and moves unused ones to the Recycle Bin. [![Open-Source Software][oss icon]](https://github.com/AqibJavedZeepalm/stackyard) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A small fast tool for browsing through logs [![Open-Source Software][oss icon]](https://github.com/RolandPheasant/TailBlazer) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss icon]](https://github.com/tortoisegit/tortoisegit/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Tower](https://www.git-tower.com/windows) - Tower - the most powerful Git client for Mac and Windows.
