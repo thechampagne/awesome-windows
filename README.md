@@ -339,6 +339,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][oss icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Vakh](https://github.com/arbharadwaj/Vakh) — Local speech-to-text that types into any Windows app. Offline, privacy-first, powered by Whisper AI. Free & Open Source.
+- [Yap](https://yapapp.cc/windows) - Voice dictation that types into any Windows app, with speech recognized on the device and a native Arm64 build. Subscription after a free trial.
 
 
 ### Terminal
