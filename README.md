@@ -318,6 +318,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [KanjiWidget](https://platwa.github.io/KanjiWidget/) - Keeps Japanese kanji on the desktop with active recall, FSRS reviews, and Anki import. [![Open-Source Software][oss icon]](https://github.com/platwa/KanjiWidget) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [KatMouse](http://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to _Launchy_ and a cousin of _Alfred_. ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Koru](https://www.koru.do) - Local-first workspace for notes, docs and files, built natively in Rust, with imports from Evernote, Notion and OneNote and no account required. [![Open-Source Software][oss icon]](https://github.com/koruworks/mono) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][oss icon]](https://github.com/OpenNingia/Launchy) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
