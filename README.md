@@ -299,6 +299,7 @@
 - [Awayra](https://awayra.github.io/AWAYRA-WPF/) - Offline Windows break reminder with separate eye-rest and movement schedules, guided breaks, and no telemetry. [![Open-Source Software][oss icon]](https://github.com/AWAYRA/AWAYRA-WPF) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Beav](https://beav.pro/) - Local-first social-media workspace with separate account spaces, reusable image templates, and an AI-accessible asset library. [Source available for non-commercial use](https://github.com/Jamailar/Beav).
 - [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. [![Open-Source Software][oss icon]](https://github.com/mnardit/beetroot-releases) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Chatda](https://barbellsoft.com/chatda/) - Desktop search that finds files by name and by the text inside PDF, Office and HWPX documents, on local drives and network shares. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
 - [ClickPulse](https://github.com/endNone/ClickPulse) - Offline keyboard and mouse activity tracker with daily trends, keyboard heatmaps, and a floating mini window. [![Open-Source Software][oss icon]](https://github.com/endNone/ClickPulse) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
