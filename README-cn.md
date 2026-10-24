@@ -240,6 +240,7 @@
 - [Duplicati](https://www.duplicati.com/) - 免费的备份应用，将加密备份存储到线上服务器，可用于Windows，macOS和Linux。[![Open-Source Software][OSS Icon]](https://github.com/duplicati/duplicati) ![Freeware][Freeware Icon]
 
 ### 生产力工具
+- [Alpha File Manager](https://www.aiec.fun/alpha-file-manager/) - 现代文件管理器，带常驻目录树、目录递归比较与同步、SFTP/FTP/FTPS 远程服务器，以及给 AI 助手用的 MCP 服务。 [![Open-Source Software][OSS Icon]](https://github.com/kizemo/alpha-file-manager) ![Freeware][Freeware Icon]
 - [AutoHotkey](https://autohotkey.com/) - Windows平台的终极自动化脚本语言。 [![Open-Source Software][OSS Icon]](https://autohotkey.com/) ![Freeware][Freeware Icon]
 - [Chocolatey](https://chocolatey.org/) - Windows的包管理器。
 - [Cold Turkey](https://getcoldturkey.com) - 屏蔽能分散你注意力的网站。（屏蔽期间你甚至无法卸载它。）
