@@ -356,6 +356,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
 - [mRemoteNG](https://mremoteng.org/) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. [![Open-Source Software][oss icon]](https://mremoteng.org/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
+- [Mullion](https://mullion.aylith.com) - A Windows Terminal fork with hover previews for links and files, tabs on any edge, and sessions that come back after a restart. [![Open-Source Software][oss icon]](https://github.com/aylith-labs/mullion) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Warp](https://www.warp.dev/) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. ![Freeware][freeware icon] ![Freeware][freeware icon light]
