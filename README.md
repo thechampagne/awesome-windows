@@ -12,6 +12,7 @@
 
 - [Applications](#applications)
   - [Audio](#audio)
+  - [Browsers](#browsers)
   - [Chat Clients](#chat-clients)
   - [Compression](#compression)
   - [Customization](#customization)
@@ -69,6 +70,10 @@
 - [VPX](https://vpx-landing.vercel.app/en/?utm_source=awesome-windows) - Music player with a real per-track oscilloscope visualizer in the spirit of 90s trackers and demoscene, plays around 70 formats including MOD/XM/IT/S3M. One-time license, free 3-day trial.
 - [WACUP](https://getwacup.com/preview) - An extension/improvement to Winamp, providing bugfixes and more features such as a better MOD player and YouTube support. ![Freeware][Freeware Icon]
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
+
+### Browsers
+
+- [Stedding](https://stedding.dev/) - Open-source browser on Chromium with an Arc-style sidebar, Spaces, pinned tabs and folders. [![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser) ![Freeware][Freeware Icon] ![Freeware][freeware icon light]
 
 ### Chat Clients
 
