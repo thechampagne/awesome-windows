@@ -374,6 +374,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Bandicam](https://www.bandicam.com) - Recording software allowing easy video recording of both desktop and 3D apps simultaneously.
 - [BCUninstaller](https://www.bcuninstaller.com/) - Bulk Crap Uninstaller - A free and open-source app uninstaller. Remove large amounts of unwanted applications quickly. [![Open-Source Software][oss icon]](https://github.com/Klocman/Bulk-Crap-Uninstaller) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
+- [ClaudeGuard](https://sidheart.gumroad.com/l/claudeguard) - PowerShell tool that fixes Claude Desktop's "Modified, NeedsRemediation" MSIX repair-loop crash with a safe, backup-first, same-version re-lay.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [DiskGeek](https://techygeekshome.info/diskgeek/) - Disk space analyzer with list and treemap views, exact and perceptual duplicate detection, batch rename, and snapshot comparison to see what grew between scans. ![Freeware][freeware icon] ![Freeware][freeware icon light]
