@@ -403,6 +403,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Lume](https://protagonistlabs.app/lume/) - Keyboard app launcher on Alt+Space. [![Open-Source Software][oss icon]](https://github.com/limburatorul/lume) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [MangoDisk](https://mangodisk.app/) - Free, open-source disk cleaner and space analyzer with a treemap, deep cleanup, duplicate finder, and app uninstaller. [![Open-Source Software][oss icon]](https://github.com/harry0703/MangoDisk) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Mist](https://getmist.app) - Free macOS-style screenshot and screen recording tool with instant cloud sharing for Windows. ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [PC Tweaker](https://pctweaker.app/) - Windows settings, hardware monitoring and restoration for supported changes. Free and paid features.
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][oss icon]](https://github.com/petrroll/PowerSwitcher)
 - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
 - [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
