@@ -490,6 +490,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [KeePass](http://www.keepass.info) - Free, open-source, easy-to-use password manager. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/keepass/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Malwarebytes](https://www.malwarebytes.org/) - protects from dangerous threats that antivirus doesn't. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [NetLimiter](https://www.netlimiter.com) - Internet traffic control and monitoring tool. ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Redaxa](https://redaxa.getcertsprint.com/) - Finds possible personal data and secrets in text for review and redaction. Free and paid features.
 - [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [System Explorer](http://systemexplorer.net) - An enhanced task manager with support for monitoring and modifying system processes, start-up programs, system services, drivers, shell extensions, and more.
 - [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][oss icon]](https://github.com/TheTorProject) ![Freeware][freeware icon] ![Freeware][freeware icon light]
