@@ -394,6 +394,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [HotkeyScan](https://protagonistlabs.app/hotkeyscan/) - Finds which program is holding a hotkey, with the evidence. [![Open-Source Software][oss icon]](https://github.com/limburatorul/hotkeyscan) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][oss icon]](https://github.com/xroche/httrack/tree/master)
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
+-  [HoloWin](https://rotsl.github.io/HoloWin/) - Open-source Windows 11 utility for triggering actions with calibrated desk taps, webcam hand gestures, and sensor events. [![Open Source](https://img.shields.io/badge/Open%20Source-❤-blue)](https://github.com/rotsl/HoloWin).
 - [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
 - [iScribby](https://iscribby.com/) - A neat little application that allows you to draw over anything on your screen (fullscreen apps included), while staying as unobtrusive as possible. ![Freeware][freeware icon light]
 - [LeanFPS](https://leanfps.com/) - Windows 10/11 game optimizer with ETW FPS measurement and individually reversible tweaks. [![Open-Source Software][oss icon]](https://github.com/Jamailar/leanfps)
