@@ -448,6 +448,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 ### Video
 
 - [Arroxy](https://orionus.dev/arroxy/) - Video and audio downloader for YouTube and other yt-dlp-supported sites, with playlist, channel and subtitle support. [![Open-Source Software][oss icon]](https://github.com/antonio-orionus/Arroxy) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [ClipToast](https://github.com/2harshpandey/ClipToast) - Lightweight clipboard media downloader powered by yt-dlp and FFmpeg with native Windows toast notifications. [![Open-Source Software][oss icon]](https://github.com/2harshpandey/ClipToast) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video creation software for editing, visual effects, color correction, and audio post production. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Flowtake](https://jnx03.github.io/Flowtake/) - Local-first screen recorder and timeline editor with local MP4 export. [![Open-Source Software][oss icon]](https://github.com/JNX03/Flowtake)
 - [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake)
