@@ -322,7 +322,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
 - [MeetWave](https://meetwave.io) - Records meetings without a joining bot and turns them into summaries with action items.
-- [Mousetroke](https://mousetroke.pages.dev/) - Free open-source mouse gestures and hot corners for Windows. [![Open-Source Software][oss icon]](https://github.com/eiaao/mousetroke) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Mousetroke](https://mousetroke.com/) - Free open-source mouse gestures and hot corners for Windows. [![Open-Source Software][oss icon]](https://github.com/eiaao/mousetroke) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [MultiCommander](http://multicommander.com/) - File Manager for Professionals. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [NeatCopy](https://stonell1.github.io/neatcopy-website/) - Windows tray clipboard text processor with local cleanup rules and LLM prompts. [![Open-Source Software][oss icon]](https://github.com/StoneLL1/NeatCopy) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][freeware icon] ![Freeware][freeware icon light]
