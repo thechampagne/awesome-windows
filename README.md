@@ -188,6 +188,7 @@
 - [NitroPDF](https://www.gonitro.com/pdf-reader) - The best PDF Reader you'll ever get.
 - [OnlyOffice](https://www.onlyoffice.com/) - The most complete and feature-rich office and productivity suite. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more. [![Open-Source Software][oss icon]](http://openoffice.apache.org/source.html) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Paperwing](https://paperwingapp.com) - Offline PDF editor for editing text and images, signing, forms, OCR, redaction and Office conversion. [![Open-Source Software][oss icon]](https://github.com/rohanvijaykumar/paperwing) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. [![Open-Source Software][oss icon]](https://github.com/sumatrapdfreader/sumatrapdf) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [WPS Office](https://www.wps.com/office-free) - The perfect free office software ![Freeware][freeware icon] ![Freeware][freeware icon light]
 
