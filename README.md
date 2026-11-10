@@ -353,6 +353,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][oss icon]](https://github.com/zeit/hyper) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Kitty](http://www.9bis.net/kitty/) - advanced Putty (SSH and telnet client).
+- [Mel – the agentic terminal](https://www.openmel.dev) - The agentic team for coding. A terminal for macOS, Windows and Linux with a team of AI coding agents and configurable approvals, plus a VS Code extension. Paid; Mel Free is bring your own AI key only.
 - [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
 - [mRemoteNG](https://mremoteng.org/) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. [![Open-Source Software][oss icon]](https://mremoteng.org/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
