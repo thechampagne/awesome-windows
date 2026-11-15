@@ -88,6 +88,7 @@
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - 允许自定义和扩展Windows任务栏功能，并具有各种生产力增强功能。 ![Freeware][Freeware Icon]
 - [Classic Start](https://github.com/passionate-coder/Classic-Start) - 使用开始菜单和资源管理器就像2000年一样。 [![Open-Source Software][OSS Icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][Freeware Icon]
 - [Clover](http://en.ejie.me/) - 将多选项卡功能添加到Windows资源管理器。![Freeware][Freeware Icon]
+- [DesktopCat](https://desktopcat.com) - 一只住在 Windows 桌面上的手绘猫咪，会对键盘和鼠标作出反应。 ![Freeware][Freeware Icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - 从系统托盘按应用程序控制音量。[![Open-Source Software][OSS Icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][Freeware Icon]
 - [Klakk](https://tryklakk.com/zh/windows/?utm_source=awesome-windows&utm_medium=referral&utm_campaign=windows-discovery&utm_content=customization-zh) - 在 Windows 应用中播放打字音效，提供 14 个音效包和[网页试听](https://tryklakk.com/zh/?utm_source=awesome-windows&utm_medium=referral&utm_campaign=windows-discovery&utm_content=preview-zh#demo)。免费试用 3 天，之后一次性购买。
 - [QTTabBar](http://qttabbar.wikidot.com/) - 通过选项卡和其他文件夹视图扩展资源管理器。 ![Freeware][Freeware Icon]
