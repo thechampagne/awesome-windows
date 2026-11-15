@@ -491,6 +491,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
 - [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software][oss icon]](https://github.com/Hakky54/certificate-ripper) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Coinetic AI Security](https://coinetic.io) - Firewall and intrusion protection for Windows Servers and PCs that bans password guessers and port scanners automatically (paid, free 30-day trial).
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][oss icon]](https://github.com/cryptomator/cryptomator) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - Make Windows 10 more private and safe. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][freeware icon] ![Freeware][freeware icon light]
