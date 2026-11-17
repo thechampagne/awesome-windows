@@ -380,6 +380,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Aperture](https://stylebending.github.io/Aperture/) - Diagnostic tui for Windows power users. [![Open-Source Software][oss icon]](https://github.com/stylebending/Aperture) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Bandicam](https://www.bandicam.com) - Recording software allowing easy video recording of both desktop and 3D apps simultaneously.
 - [BCUninstaller](https://www.bcuninstaller.com/) - Bulk Crap Uninstaller - A free and open-source app uninstaller. Remove large amounts of unwanted applications quickly. [![Open-Source Software][oss icon]](https://github.com/Klocman/Bulk-Crap-Uninstaller) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Caffeine for Windows](https://caffeine-win.vercel.app) - Keeps the PC awake with tray timer presets (5-60 minutes) or an indefinite hold. [![Open-Source Software][oss icon]](https://github.com/abdul-karim-mia/caffeine-win) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Carnac](http://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][freeware icon] ![Freeware][freeware icon light]
