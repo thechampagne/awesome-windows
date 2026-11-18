@@ -418,6 +418,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Retroshare](https://retroshare.cc/) - A platform for secure communications and file sharing between friends. [![Open-Source Software][oss icon]](https://github.com/RetroShare/RetroShare)
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
+- [Ruxget](https://hidaydream.cloud/ruxget/desktop/en/?utm_source=github_awesome_windows) - Download manager for Windows with resumable file downloads and MP4/MP3 saving from supported video sites. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -  A command line utility that can securely delete a file, or clean the slack space.
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
 - [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
