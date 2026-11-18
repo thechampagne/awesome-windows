@@ -418,6 +418,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Retroshare](https://retroshare.cc/) - A platform for secure communications and file sharing between friends. [![Open-Source Software][oss icon]](https://github.com/RetroShare/RetroShare)
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
+- [ScreenText OCR](https://github.com/Golyb0u/ScreenText-OCR) - Windows desktop OCR front-end for Tesseract 5 that captures a screen region or opens an image and copies the recognized text to the clipboard. [![Open-Source Software][oss icon]](https://github.com/Golyb0u/ScreenText-OCR) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -  A command line utility that can securely delete a file, or clean the slack space.
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
 - [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
