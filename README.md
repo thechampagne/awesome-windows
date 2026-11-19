@@ -67,6 +67,7 @@
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][oss icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and \$60 for individual, non-profit, or small business use.
 - [Resonic](https://resonic.at/) - Fast and free audio player.
+- [SoundVisualizer](https://sovis-team.github.io/en/) - Accessibility overlay for deaf and hard-of-hearing people that shows where the sounds on your PC come from, how loud they are and what kind they are, as a glow along the screen edges. [![Open-Source Software][oss icon]](https://github.com/SOVIS-Team/SoundVisualizer-Windows) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [VPX](https://vpx-landing.vercel.app/en/?utm_source=awesome-windows) - Music player with a real per-track oscilloscope visualizer in the spirit of 90s trackers and demoscene, plays around 70 formats including MOD/XM/IT/S3M. One-time license, free 3-day trial.
 - [WACUP](https://getwacup.com/preview) - An extension/improvement to Winamp, providing bugfixes and more features such as a better MOD player and YouTube support. ![Freeware][Freeware Icon]
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
