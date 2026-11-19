@@ -233,6 +233,7 @@
 ### Graphics
 
 - [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][oss icon]](https://developer.blender.org/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Brilliant](https://brilliant.design/) - Vector and UI design tool with auto layout, components and design tokens, plus an MCP server so AI agents can edit the same canvas.
 - [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) - Free interface design app that opens and saves .fig files, with a built-in MCP server so AI coding agents can edit the open file. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][oss icon]](http://www.gimp.org/source/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Inkscape](https://inkscape.org/en/) - Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux. [![Open-Source Software][oss icon]](https://gitlab.com/inkscape/inkscape) ![Freeware][freeware icon] ![Freeware][freeware icon light]
