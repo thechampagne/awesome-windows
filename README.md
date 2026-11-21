@@ -153,6 +153,7 @@
 - [Mamp](https://www.mamp.info/en/) - Local server environment. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Meld](http://meldmerge.org/) - A visual diff and merge tool. [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
+- [Open Agent API](https://openagentapi.pages.dev/en/) - Self-hosted API gateway for coding agents, with a portable Windows x64 CLI. [![Open-Source Software][oss icon]](https://github.com/jiangxingfan1-coder/Open-Agent-API)
 - [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly). ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 - [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
