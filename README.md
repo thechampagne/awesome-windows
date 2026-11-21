@@ -449,6 +449,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
 - [UpWatchr](https://upwatchr.io) - Local-first uptime monitor for websites and services. Native, no cloud and no account. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
+- [WinAppMigrator](https://winappmigrator.com/) - Turns an installed app into one installer for another PC, even when the original installer is gone. Works from this PC, a pulled drive, a .vhd/.vhdx image, or a Windows 7+ PC over the network. [![Open-Source Software][oss icon]](https://github.com/RandyNorthrup/WinAppMigrator) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
 - [WindowsWidgets](https://github.com/emretulek/WindowsWidgets) - Application for adding and managing customizable desktop widgets for Windows 10 and 11. [![Open-Source Software][oss icon]](https://github.com/emretulek/WindowsWidgets) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
