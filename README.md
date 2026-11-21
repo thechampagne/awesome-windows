@@ -364,6 +364,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - Set custom color schemes for the Windows Console with support for iTerm color schemes.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
 - [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
+- [easy-ssh](https://easyssh.thebetawebsite.com/) - Free SSH and SFTP client for Windows with a terminal and file manager on the same connection. [![Open-Source Software][oss icon]](https://github.com/taimoorKVD/easy-ssh) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][oss icon]](https://github.com/zeit/hyper) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Kitty](http://www.9bis.net/kitty/) - advanced Putty (SSH and telnet client).
