@@ -467,6 +467,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 ### Video
 
 - [Arroxy](https://orionus.dev/arroxy/) - Video and audio downloader for YouTube and other yt-dlp-supported sites, with playlist, channel and subtitle support. [![Open-Source Software][oss icon]](https://github.com/antonio-orionus/Arroxy) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Crisp Video](https://crispvideo.app/?ref=awesome-windows) - Restores, denoises and upscales old video and VHS transfers up to 4K on your own PC, offline, with a timeline editor.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video creation software for editing, visual effects, color correction, and audio post production. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Flowtake](https://jnx03.github.io/Flowtake/) - Local-first screen recorder and timeline editor with local MP4 export. [![Open-Source Software][oss icon]](https://github.com/JNX03/Flowtake)
 - [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake)
