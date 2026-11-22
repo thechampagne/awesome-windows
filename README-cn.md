@@ -194,6 +194,7 @@
 - [Warsow](https://www.warsow.net/) - Windows上免费和快节奏的FPS游戏。 ![Freeware][Freeware Icon]
 
 ### 图形
+- [BirdFrame](https://getbirdframe.com/windows/) - 自动找出照片中的鸟，直接从原始尺寸的照片中批量裁切，一次可处理数千张。每次可免费处理 50 张，更多照片可一次性付费解锁。
 - [Blender](https://www.blender.org/) - 功能齐全的可扩展跨平台3D内容套件。 [![Open-Source Software][OSS Icon]](https://developer.blender.org/) ![Freeware][Freeware Icon]
 - [Gimp](http://www.gimp.org/) - 开源图像编辑器。 [![Open-Source Software][OSS Icon]](http://www.gimp.org/source/) ![Freeware][Freeware Icon]
 - [Inkscape](https://inkscape.org/en/) - 免费的矢量图形设计软件。

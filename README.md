@@ -236,6 +236,7 @@
 
 ### Graphics
 
+- [BirdFrame](https://getbirdframe.com/windows/) - Finds birds and crops thousands of photos from the full-size originals. Free for up to 50 photos per run, with a one-time unlock for larger batches.
 - [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][oss icon]](https://developer.blender.org/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) - Free interface design app that opens and saves .fig files, with a built-in MCP server so AI coding agents can edit the open file. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][oss icon]](http://www.gimp.org/source/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
