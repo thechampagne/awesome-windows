@@ -126,6 +126,7 @@
 - [Keylord](https://protonail.com/products/keylord)用于Redis，LevelDB和Memcached键值数据库的跨平台GUI客户端。
 - [Mamp](https://www.mamp.info/en/)-本地服务器环境。 ![Freeware][Freeware Icon]
 - [合并](http://meldmerge.org/)-视觉差异和合并工具。 [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/meld/)![Freeware][Freeware Icon]
+- [MyAgents](https://myagents.io/) - 开源 Windows 桌面工作台，可在不同运行时中运行 AI 智能体，并为重复工作设置定时任务。 [![Open-Source Software][OSS Icon]](https://github.com/hAcKlyc/MyAgents)
 - [NSudo](https://github.com/M2Team/NSudo/)-强大的系统管理工具。 [![Open-Source Software][OSS Icon]](https://github.com/M2Team/NSudo/)
 - [Open Server](https://ospanel.io/)-便携式服务器平台和软件环境（例如MAMP，XAMPP，WAMP，非常用户友好）。 ![Freeware][Freeware Icon]
 - [Pixie](http://www.nattyware.com/pixie.php)-适用于开发人员的简单颜色选择器。
