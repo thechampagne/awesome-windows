@@ -152,6 +152,7 @@
 - [llmash](https://github.com/omgitsbase/llmash) - Ollama-compatible local LLM server and command line, with faster decoding on NVIDIA GPUs. [![Open-Source Software][oss icon]](https://github.com/omgitsbase/llmash) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Mamp](https://www.mamp.info/en/) - Local server environment. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Meld](http://meldmerge.org/) - A visual diff and merge tool. [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [MyAgents](https://myagents.io/) - Open-source desktop workspace for running AI agents with different runtimes and scheduling recurring tasks. [![Open-Source Software][oss icon]](https://github.com/hAcKlyc/MyAgents) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
 - [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly). ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
