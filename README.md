@@ -373,6 +373,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Wardterm](https://wardterm.com) - SSH and SFTP client for Windows 10 and 11 with Mosh, Telnet, a built-in code editor for remote files and an end-to-end encrypted vault for servers and keys. Free plan with no limit on servers; Pro syncs across devices.
 - [Warp](https://www.warp.dev/) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [treepp](https://github.com/Water-Run/treepp) - A modern Windows `tree` replacement with diff-level compatibility, modern features like `.gitignore` support, and significantly faster performance.
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Microsoft's official new terminal for Windows. [![Open-Source Software][oss icon]](https://github.com/microsoft/terminal) ![Freeware][freeware icon] ![Freeware][freeware icon light]
