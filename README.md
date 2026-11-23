@@ -332,6 +332,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Koru](https://www.koru.do) - Local-first workspace for notes, docs and files, built natively in Rust, with imports from Evernote, Notion and OneNote and no account required. [![Open-Source Software][oss icon]](https://github.com/koruworks/mono) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][oss icon]](https://github.com/OpenNingia/Launchy) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
+- [LocArk](https://locark.com/) - Free Markdown notes, password records and Inbox in a local-first workspace, with optional Pro kanban boards and mind maps.
 - [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
 - [MeetWave](https://meetwave.io) - Records meetings without a joining bot and turns them into summaries with action items.
 - [MultiCommander](http://multicommander.com/) - File Manager for Professionals. ![Freeware][freeware icon] ![Freeware][freeware icon light]
