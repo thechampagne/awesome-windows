@@ -240,6 +240,7 @@
 - [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) - Free interface design app that opens and saves .fig files, with a built-in MCP server so AI coding agents can edit the open file. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][oss icon]](http://www.gimp.org/source/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Inkscape](https://inkscape.org/en/) - Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux. [![Open-Source Software][oss icon]](https://gitlab.com/inkscape/inkscape) ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [Kite](https://kite.new/download) - Design app your AI agents and your team share; Claude, Cursor or Codex draw editable layers through its MCP server.
 - [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. [![Open-Source Software][oss icon]](https://krita.org/en/download/krita-desktop/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Lightable](https://hidaydream.cloud/lightable/en/) - Lightweight Windows photo viewer and culling tool with side-by-side comparison, star ratings, and XMP labels. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [MapTiler](https://www.maptiler.com/) - MapTiler generates zoomable raster maps from images in user-defined coordinate system. ![Freeware][freeware icon] ![Freeware][freeware icon light]
