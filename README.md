@@ -399,6 +399,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][oss icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][oss icon]](http://sourceforge.net/projects/farmanager/)
+- [FastRevers](https://u-said.github.io/FastRevers/) - Russian/English keyboard layout switcher (formerly LiteSwitcher) that fixes words typed in the wrong layout. [![Open-Source Software][oss icon]](https://github.com/U-Said/FastRevers) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [File Labs](https://protagonistlabs.app/filelabs/) - Dual-pane file manager with its own verified copy engine. [![Open-Source Software][oss icon]](https://github.com/limburatorul/file-labs) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - A lossless file size optimizer supporting a wide array of formats.
 - [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation for HTTP, FTP, BitTorrent, eD2K, HLS and DASH. [![Open-Source Software][oss icon]](https://github.com/zerx-lab/FluxDown) ![Freeware][freeware icon] ![Freeware][freeware icon light]
@@ -417,7 +418,6 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 - [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
-- [LiteSwitcher](https://github.com/U-Said/LiteSwitcher) - Russian/English keyboard layout switcher that fixes words typed in the wrong layout. [![Open-Source Software][oss icon]](https://github.com/U-Said/LiteSwitcher) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Lume](https://protagonistlabs.app/lume/) - Keyboard app launcher on Alt+Space. [![Open-Source Software][oss icon]](https://github.com/limburatorul/lume) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [MangoDisk](https://mangodisk.app/) - Free, open-source disk cleaner and space analyzer with a treemap, deep cleanup, duplicate finder, and app uninstaller. [![Open-Source Software][oss icon]](https://github.com/harry0703/MangoDisk) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Mist](https://getmist.app) - Free macOS-style screenshot and screen recording tool with instant cloud sharing for Windows. ![Freeware][freeware icon] ![Freeware][freeware icon light]
