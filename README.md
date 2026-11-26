@@ -125,6 +125,7 @@
 ### Developer Tools
 
 - [1bench](https://1bench.dev) - Desktop client for Postgres, Redis, ClickHouse, MongoDB and about two dozen other databases.
+- [Alchemist Coder](https://coder.alekla.com) - Desktop app that runs Claude Code and Codex agents over ACP; the free edition uses only local models from Ollama or LM Studio. [![Open-Source Software][oss icon]](https://github.com/Alekla0126/alchemist-coder) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and full-featured web client.
 - [ChatCrystal](https://zengliangyi.github.io/ChatCrystal/) - Local-first Windows desktop app that turns AI coding conversations into searchable knowledge notes. [![Open-Source Software][oss icon]](https://github.com/ZengLiangYi/ChatCrystal) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Claude Account Switcher](https://github.com/SnlperStripes/claude-account-switcher) - Tray app that switches the Claude desktop app between accounts without an email code, carries Claude Code chats and projects across, and shows the 5-hour and weekly usage of every account. [![Open-Source Software][oss icon]](https://github.com/SnlperStripes/claude-account-switcher) ![Freeware][freeware icon] ![Freeware][freeware icon light]
