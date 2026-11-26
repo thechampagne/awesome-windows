@@ -144,6 +144,7 @@
 - [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [gitty](https://github.com/Omibranch/gitty) - A fast CLI companion for git — open PRs, view logs, switch branches and repos from your terminal. [![Open-Source Software][oss icon]](https://github.com/Omibranch/gitty) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
+- [HID Fixture Studio](https://titancsa.github.io/guides/first-run/#studio) - Windows editor that validates virtual USB mouse and keyboard HID descriptors offline. [![Open-Source Software][oss icon]](https://github.com/titanfyre/HID-Fixture-Studio) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [I'm Only Resting](https://github.com/SwensenSoftware/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][oss icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][oss icon] ![Freeware][freeware icon] ![Freeware][freeware icon light]
