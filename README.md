@@ -319,6 +319,7 @@
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Switch between application instances, fast.
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [Executor.dk](http://executor.dk/) - A free multi purpose customizable and light-weight launcher. ![Freeware][freeware icon] ![Freeware][freeware icon light]
+- [EXTREMELY Autonomous Agents](https://extremely.agency) - Free, open-source autonomous AI agency whose agents run on your own computer around the clock. [![Open-Source Software][oss icon]](https://github.com/maxkxd/extremely-autonomous-agents)
 - [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
 every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss icon]](https://github.com/necdetsanli/EyeRest) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][freeware icon] ![Freeware][freeware icon light]
