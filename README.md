@@ -135,6 +135,7 @@
 - [DevPeek](https://devpeek.ypgao.com/) - A free HTTP(S) debugging proxy with request mock, automatic parameter decryption, and request replay. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [DevProjex](https://github.com/Avazbek22/DevProjex) - Cross-platform .NET/Avalonia codebase-context app with GUI, TUI, CLI, live preview, redaction, Git scopes, and a built-in read-only MCP server. [![Open-Source Software][oss icon]](https://github.com/Avazbek22/DevProjex) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Diff Anything](https://martingruner.com/projects/diffanything) - Compare text, structured data, folders, images, and more locally on Windows.
+- [DNS-DATA Windows](https://dns-data.com/en/download/) - Graphical Windows x64 app for pairing a PC with the DNS-DATA remote MCP service, managing its connection, and optional sign-in auto-start.
 - [ExtendsClass](https://extendsclass.com/) - Online tools for developers (REST/SOAP clients, SQLite browser, Regex tester, XPath tester) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
 - [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][oss icon]](https://download.filezilla-project.org/client/) ![Freeware][freeware icon] ![Freeware][freeware icon light]
