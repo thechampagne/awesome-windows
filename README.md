@@ -323,6 +323,7 @@
 every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss icon]](https://github.com/necdetsanli/EyeRest) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [File Juggler](https://www.filejuggler.com/) - Organize files automatically. Monitor folders and execute actions like rename, delete, unzip and more. Finds dates in PDFs and much more.
+- [FileCat](https://github.com/benny-cz/FileCat) - Multi-panel file manager for Windows 11 with tabs, built-in text, hex, image, PDF, HTML and Markdown viewers, and remote file access. [![Open-Source Software][oss icon]](https://github.com/benny-cz/FileCat) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Files](https://files.community/) - A modern file manager that helps users organize their files and folders. [![Open-Source Software][oss icon]](https://github.com/files-community/Files) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Focusd](https://focusd.0xarchit.is-a.dev) - A local, privacy-first CLI screen time monitor. [![Open-Source Software][oss icon]](https://github.com/0xarchit/Focusd) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
