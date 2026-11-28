@@ -53,7 +53,6 @@
 - [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][oss icon]](https://github.com/audacity/audacity) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more. ![Freeware][freeware icon] ![Freeware][freeware icon light]
-- [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) - Fixes low-quality Bluetooth headset audio on Windows when games or voice apps leave the device stuck in Hands-Free mode, with safe reset, disable, and restore options. [![Open-Source Software][oss icon]](https://github.com/Avazbek22/BluetoothHandsFreeToggle) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [CDex](http://www.cdex.fr/) - CD Ripper (French site, English program). ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
@@ -67,6 +66,7 @@
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][oss icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and \$60 for individual, non-profit, or small business use.
 - [Resonic](https://resonic.at/) - Fast and free audio player.
+- [StereoKeeper](https://github.com/Avazbek22/StereoKeeper) - Tray app that fixes bad Bluetooth headphone sound on Windows 11 and 10. When Call of Duty, Warzone, Discord or OBS uses the headset mic, Windows switches to Hands-Free mode and everything sounds mono, like a phone call. StereoKeeper brings back stereo in one click. [![Open-Source Software][oss icon]](https://github.com/Avazbek22/StereoKeeper) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [VPX](https://vpx-landing.vercel.app/en/?utm_source=awesome-windows) - Music player with a real per-track oscilloscope visualizer in the spirit of 90s trackers and demoscene, plays around 70 formats including MOD/XM/IT/S3M. One-time license, free 3-day trial.
 - [WACUP](https://getwacup.com/preview) - An extension/improvement to Winamp, providing bugfixes and more features such as a better MOD player and YouTube support. ![Freeware][Freeware Icon]
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
