@@ -64,6 +64,7 @@
 - [Musicbee](http://getmusicbee.com/) - Like iTunes but better than iTunes.
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [MyMusik](https://mymusik.app/) - Plays and organizes a personal music collection offline, with audio format conversion and optional cloud sync.
+- [Ploq](https://ploq.app/) - Music notation app based on MuseScore where several people edit the same score at once, with live cursors. [![Open-Source Software][oss icon]](https://github.com/specialith/ploq-app) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][oss icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][freeware icon] ![Freeware][freeware icon light]
 - [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and \$60 for individual, non-profit, or small business use.
 - [Resonic](https://resonic.at/) - Fast and free audio player.
